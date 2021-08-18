@@ -24,8 +24,6 @@ You can stake your cake on the "Staking" page by clicking on the little "+" sign
 
 Staking page: [https://pancakeswap.finance/staking](https://pancakeswap.finance/staking)
 
-
-
 ## What is the difference between staking and farming?
 
 STAKING: In order to stake your $CAKE you don't need anything else than... well... $CAKE.
@@ -97,6 +95,4 @@ $CAKE does not have a max. supply at the time of writing.
 You can check the analytics of PancakeSwap by click on the "Analytics" tab on the top menu or by clicking the link below.
 
 Analytics: [https://pancakeswap.info/](https://pancakeswap.info/)
-
-
 

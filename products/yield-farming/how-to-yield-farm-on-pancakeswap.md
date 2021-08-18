@@ -1,7 +1,5 @@
 # How to Yield Farm on PancakeSwap
 
-
-
 ![](https://lh6.googleusercontent.com/Dale9ZEPCvap9dHrQbAIsye8xakYV5fImD3QLRoHeeeyZrz5uKXN4ZJwv4tctoI7DxDOcV_eVHl8kbQXmaRprgcACXQUlhy__fqf_itink-MyiBg7mUylBsp49IOr6aDZyJ_yMWr)
 
 1. **Go to the farm page** [**here**](https://pancakeswap.finance/farms)**.**
@@ -32,12 +30,8 @@
 
 **For example, you would need to add $10 of BNB and $10 of CAKE. Once you are done, click “Supply”.**
 
-  
-****
-
 ![](https://lh4.googleusercontent.com/16MIA0eL9Sug-SiHKO5TzqaqsIaqVwlxAPeF0JRplnBxw4LRBtrZiyDg4zVeiz3F24WUEwSyjhNCjadzkztXbg63rOtXY5O0ntoPpTABqqUBuQTHHnyNpz0BwBd9HuHginRZddL5)![](https://lh5.googleusercontent.com/iDoe9NMibzBwQ-MbYg3oIBr-WkkdybEU_iLipbLWEVdgLtyxj6Pm2N0VOkpSpHHeJuB0EU4pHh54TdsXPcGK7fxvK0YgKaGkCPKZPto5A41hKWON2aZpJGblaL4s0CTIU3PsVMIc)  
-**6. Check the details, click “Confirm Supply” and then confirm the transaction in your wallet.**  
-
+**6. Check the details, click “Confirm Supply” and then confirm the transaction in your wallet.**
 
 \*\*\*\*
 
