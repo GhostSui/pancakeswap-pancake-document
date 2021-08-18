@@ -1,4 +1,4 @@
-# 🎟 Lottery
+# Lottery
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-Mb9tAOu9rIhmt0lIx9B%2F-Mb9vDSB5AtWkkhkidXE%2Fdocs%20masthead%20%283%29.png?alt=media&token=d540b023-92e5-4716-a3db-dcb902d3d62a)
 

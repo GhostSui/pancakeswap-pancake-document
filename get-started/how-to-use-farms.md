@@ -33,12 +33,11 @@ When you find a Farm that you'd like to use, note down the trading pair, e.g. BN
 Now that you've found a Farm to stake in, you will need to add liquidity to get your LP Tokens.
 
 1. Click on the row of the Farm you've chosen from the list. It will open to show more details.
-
 2. On the left, you'll see some links. Click the **Get \(your pair\) LP** link.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-Ma7L32Nr0z6VnrNnAQW%2F-Ma7UI8WPxQFNL1V_zAZ%2Fimage.png?alt=media&token=137ec648-a7e3-44cc-ab9d-0fbaebecdb5c)
 
- This will open the Add Liquidity page for your Farm's pair. We have a [guide to adding liquidity](how-to-add-remove-liquidity.md) you can follow to get your LP Tokens.
+This will open the Add Liquidity page for your Farm's pair. We have a [guide to adding liquidity](how-to-add-remove-liquidity.md) you can follow to get your LP Tokens.
 
 ## Putting your LP Tokens into a farm <a id="putting-your-lp-tokens-into-a-farm"></a>
 
@@ -52,17 +51,17 @@ Now that you have your LP Tokens, you’re ready to start staking them in a Farm
 
 When you’re ready, click the **Enable** button and confirm your action in your wallet.
 
-2. After a short wait, the Enable button will change to **Stake LP**. Click it and a new window will appear.
+1. After a short wait, the Enable button will change to **Stake LP**. Click it and a new window will appear.
 
 ![](https://lh4.googleusercontent.com/Mpwe28bYv8e3EcbtGRq8ni57u_UlESPz_nOqdTPXB-RjZ8ThcgWvUWI8nOGbOgo5d-Mvj7_a6J_POtIftVWCCXdDCf3RVhcpq7OYDQOuhFtSLNiupMQaaNQLmgSo1aJMWky-F9Jc)
 
 Type the amount of LP Tokens you would like to farm with into the field, or just click **Max** to use all of your LP Tokens.
 
-3. When you have the amount entered, the **Confirm** button will light up. Click it. Your wallet will ask you to confirm your action.
+1. When you have the amount entered, the **Confirm** button will light up. Click it. Your wallet will ask you to confirm your action.
 
 ![](https://lh3.googleusercontent.com/s_699JBPT7pxQXK1sO0tvkyEawbhEIZcd_QFd8VGq9glynryO1YpNIjoa4s-nUOxiVuEU-DOTjs3NvSAn6_jfp-ONULDJczNeubeYU8bqlWtpAhkunlG0L184CoxbaDZVZ8t16C3)
 
-4. After a short wait, the window will close, and you will see your new staked LP Token balance in the details.
+1. After a short wait, the window will close, and you will see your new staked LP Token balance in the details.
 
 ![](https://lh3.googleusercontent.com/LatVJszaNP2RwYTf-mNod7AmYa5-y1FafJTnY2I4Nk5tnfR_7d2b44gwRJqMUGSQy8IKS0TAxmUL0LvUQ7urvBNrsPGc-UWay3WRVDeRCQf_vIM15j_FTdXfXb6u4b1S57jExq7F)
 
@@ -76,17 +75,16 @@ You may decide you would like to add more LP Tokens to a Farm at a later date, o
 
 You should now only see the pairs you have LP Tokens in on the list, making it easier to find your Farm.
 
-2. Find the Farm you have LP Tokens in, and click the row to view details. You will see a **-** and **+** button on the right-hand side. Click **-** to remove LP Tokens, or **+** to add more LP Tokens.
+1. Find the Farm you have LP Tokens in, and click the row to view details. You will see a **-** and **+** button on the right-hand side. Click **-** to remove LP Tokens, or **+** to add more LP Tokens.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-M_yHqZ-iQ7MbYTxgAV0%2F-Ma2mcalSJUKuOf3jFVG%2Fimage.png?alt=media&token=70228d13-8d39-4674-bd5e-728322cc1bcd)
 
-3. A window will open that looks like the one you used earlier to first stake your LP Tokens. Like last time, type the amount you would like to unstake/stake, or click **Max** to remove/add all available LP Tokens.
+1. A window will open that looks like the one you used earlier to first stake your LP Tokens. Like last time, type the amount you would like to unstake/stake, or click **Max** to remove/add all available LP Tokens.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-M_yHqZ-iQ7MbYTxgAV0%2F-Ma2ohBGgl_Ja_jXUIj3%2Fimage.png?alt=media&token=13ec22b5-2054-40bc-a23a-cfefd8ee9dd4)
 
-4. Make sure your information is correct. When you are ready, click the **Confirm** button and confirm the action in your wallet.
-
-5. After a short wait, your new balance will show in the details section of your LP Token pair. If you've unstaked your LP Tokens, any unharvested rewards you had will automatically have been collected.
+1. Make sure your information is correct. When you are ready, click the **Confirm** button and confirm the action in your wallet.
+2. After a short wait, your new balance will show in the details section of your LP Token pair. If you've unstaked your LP Tokens, any unharvested rewards you had will automatically have been collected.
 
 ## Collecting your farming rewards <a id="collecting-your-farming-rewards"></a>
 
@@ -99,12 +97,11 @@ You can harvest your Farm and Syrup Pool rewards together from the Home page. If
 To collect your rewards, you’ll need to visit your chosen Farm and collect the CAKE waiting for you.
 
 1. Return to the Farms page [here](https://pancakeswap.finance/farms).
-
 2. Find the Farm you staked your LP Tokens in, and click the row to view details. You should see an estimate of your rewards under “Cake earned”.
 
 ![](https://lh5.googleusercontent.com/nBfqNjKcuqvj-LhW76CPmV2pyGS-SwGsf1U_9top7OS7wnl24xQRzudcOgZbQvNc0P8rQetAU9_52mB9TatXqyMcdCRyMk0nRzel8BqWPGNyiTBGB8Z-c3LcHTJVXaAb5CWyD5J4)
 
-3. Click the **Harvest** button and confirm the action in your wallet. After a short wait, the CAKE will be claimed to your wallet for you to use as you like.
+1. Click the **Harvest** button and confirm the action in your wallet. After a short wait, the CAKE will be claimed to your wallet for you to use as you like.
 
 ### How often should I harvest my rewards? <a id="how-often-should-i-harvest-my-rewards"></a>
 

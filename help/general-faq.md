@@ -8,26 +8,25 @@ This FAQ page answers some of the more commonly asked questions from the Pancake
 
 You can stake your CAKE in PancakeSwap Syrup Pools. Visit the [Syrup Pools page](https://pancakeswap.finance/pools).
 
-Read our [How to Stake in Syrup Pools guide](../products/syrup-pool/how-to-stake-in-syrup-pools.md) if you'd like a hand getting started with staking.
+Read our [How to Stake in Syrup Pools guide](../products-1/syrup-pool/how-to-stake-in-syrup-pools.md) if you'd like a hand getting started with staking.
 
 ## What is the difference between staking and farming? <a id="what-is-the-difference-between-staking-and-farming"></a>
 
 Staking in Syrup Pools and farming with Yield Farming are both ways to earn more CAKE by supporting PancakeSwap.
 
-Staking only needs some CAKE to be added to a Syrup Pool to earn CAKE or other tokens. [Learn more about Syrup Pool staking.](../products/syrup-pools.md)​
+Staking only needs some CAKE to be added to a Syrup Pool to earn CAKE or other tokens. [Learn more about Syrup Pool staking.](../products-1/syrup-pools.md)​
 
-Farming is more complicated and needs LP Tokens to earn CAKE. [Learn more about Yield Farming.](../products/yield-farming/)​
+Farming is more complicated and needs LP Tokens to earn CAKE. [Learn more about Yield Farming.](../products-1/yield-farming/)​
 
 ## How do I farm? <a id="how-do-i-farm"></a>
 
-We have a [Yield Farming guide](../products/yield-farming/how-to-use-farms.md) if you're interested in learning how to farm.
+We have a [Yield Farming guide](../products-1/yield-farming/how-to-use-farms.md) if you're interested in learning how to farm.
 
 ## Is PancakeSwap safe? <a id="is-pancakeswap-safe"></a>
 
 See for yourself:
 
 * Check out these PancakeSwap security audits:
-  * * * 
 * Transparent:
   * We’re built on open-source software: our site and all our Smart Contracts are publicly visible for maximum transparency.
   * Our contracts are verified on BscScan so you know that what you see is what you get: [1](https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E) [2](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e#code) [3](https://bscscan.com/address/0xbcfccbde45ce874adcb698cc183debcf17952812) [4](https://bscscan.com/address/0x1b96b92314c44b159149f7e0303511fb2fc4774f#code) [5](https://bscscan.com/address/0x92E8CeB7eAeD69fB6E4d9dA43F605D2610214E68)
@@ -37,15 +36,15 @@ See for yourself:
 
 ## Where can I view the PancakeSwap roadmap? <a id="where-can-i-view-the-pancakeswap-roadmap"></a>
 
-You can [view our to-do list here, but don't call it a roadmap](../roadmap%20%281%29.md).
+You can [view our to-do list here, but don't call it a roadmap](../roadmap-1.md).
 
 ## How do I connect my wallet to Binance Smart Chain and PancakeSwap? <a id="how-do-i-connect-my-wallet-to-binance-smart-chain-and-pancakeswap"></a>
 
-We have a [Connect Your Wallet to PancakeSwap guide](../get-started/connect-your-wallet-to-pancakeswap%20%281%29.md) covering this in detail.
+We have a [Connect Your Wallet to PancakeSwap guide](../get-started-1/connect-your-wallet-to-pancakeswap-1.md) covering this in detail.
 
 ## What's the best wallet for PancakeSwap? <a id="whats-the-best-wallet-for-pancakeswap"></a>
 
-It depends on your needs. We have an [in-depth guide to selecting and creating a wallet](../get-started/create-a-wallet%20%281%29.md) that's right for you.
+It depends on your needs. We have an [in-depth guide to selecting and creating a wallet](../get-started-1/create-a-wallet-1.md) that's right for you.
 
 ## Why is my transaction failing? <a id="why-is-my-transaction-failing"></a>
 
@@ -69,19 +68,19 @@ Please remember anyone can airdrop tokens to PancakeSwap users since every trans
 
 ## How can I report a bug? <a id="how-can-i-report-a-bug"></a>
 
-Learn about our [bug bounty and potential bounty payouts](../code/bug-bounty.md).
+Learn about our [bug bounty and potential bounty payouts](../code-1/bug-bounty.md).
 
 ## Why does it say I have no BNB balance? <a id="why-does-it-say-i-have-no-bnb-balance"></a>
 
-If you've already [transferred BNB into your Binance Smart Chain-enabled wallet](../get-started/get-bep20-tokens%20%281%29.md) but still have this error, you're most likely not [connected to Binance Smart Chain](../get-started/connect-your-wallet-to-pancakeswap%20%281%29.md) within your wallet. Check your wallet's selected network and make sure you have Binance Smart Chain \(BSC\) selected.
+If you've already [transferred BNB into your Binance Smart Chain-enabled wallet](../get-started-1/get-bep20-tokens-1.md) but still have this error, you're most likely not [connected to Binance Smart Chain](../get-started-1/connect-your-wallet-to-pancakeswap-1.md) within your wallet. Check your wallet's selected network and make sure you have Binance Smart Chain \(BSC\) selected.
 
 ## How do I vote? <a id="how-do-i-vote"></a>
 
-To learn more about voting, you can [read our section on Voting](../products/voting.md), including voting guides.
+To learn more about voting, you can [read our section on Voting](../products-1/voting.md), including voting guides.
 
 ## What is the max supply of CAKE? <a id="what-is-the-max-supply-of-cake"></a>
 
-$CAKE does not have a maximum supply. The circulating supply is managed through built-in burning and regular burning events. Read this to [learn more about PancakeSwap's tokenomics](../tokenomics/cake.md).
+$CAKE does not have a maximum supply. The circulating supply is managed through built-in burning and regular burning events. Read this to [learn more about PancakeSwap's tokenomics](../tokenomics-1/cake.md).
 
 ## What are the treasury funds used for? <a id="what-are-the-treasury-funds-used-for"></a>
 
@@ -101,7 +100,7 @@ PancakeSwap’s other smart contracts, like IFO and AutoPool, are protected as w
 
 ## Can I join the PancakeSwap team? <a id="can-i-join-the-pancakeswap-team"></a>
 
-Check the [Become a Chef](../hiring/become-a-chef.md) area for information on open positions we're looking to fill.
+Check the [Become a Chef](../hiring-1/become-a-chef.md) area for information on open positions we're looking to fill.
 
 We advertise new positions we're looking to fill on our [official social media channels](https://docs.pancakeswap.finance/contact-us/telegram), so be sure to follow us to get the latest hiring information.
 

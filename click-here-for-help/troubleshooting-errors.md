@@ -76,7 +76,7 @@ description: よく起こりがちなエラーを紹介します。サイドバ�
 
 ### **1．流動性ペアトークンのコントラクトを承認する**
 
-操作したい流動性ペアトークンのコントラクトに向かいましょう。   
+操作したい流動性ペアトークンのコントラクトに向かいましょう。  
 ここでは例としてETH-WBNBペアを挙げます： [https://bscscan.com/address/0x70d8929d04b60af4fb9b58713ebcf18765ade422](https://bscscan.com/address/0x70d8929d04b60af4fb9b58713ebcf18765ade422)
 
 1. **Write Contract**を選択し、**Connect to Web3**をクリックしてウォレットを接続してください。 ![](https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
@@ -98,9 +98,9 @@ Routerコントラクトに移動します： [https://bscscan.com/address/0x05f
 1. **Write Contract**を選択し、**Connect to Web3**をクリックしてウォレットを接続してください。
 2. 流動性を追加したい場合は「**addLiquidity**」項目を、流動性を除去したい場合は「**removeLiquidity**」項目で以下を記入してください。
    1. tokenA \(address\)/tokenB \(address\)  流動性ペアトークンそれぞれのトークンアドレス
-   2. liquidity \(uint256\) ****先ほどメモした数値
-   3. amountAMin \(unit256\) / amountBMin \(unit256\) ****少量を設定します。両方1にしてみましょう。
-   4. to \(address\) ****あなたのウォレットアドレス
+   2. liquidity \(uint256\) _\*\*_先ほどメモした数値
+   3. amountAMin \(unit256\) / amountBMin \(unit256\) _\*\*_少量を設定します。両方1にしてみましょう。
+   4. to \(address\) _\*\*_あなたのウォレットアドレス
    5. deadline \(unit256\)  トランザクションが実行されるより大きなエポックタイム
 
 ![](../.gitbook/assets/image%20%2819%29.png)
@@ -202,7 +202,7 @@ CAKEプールにCAKEをステークした際に受け取るSYRUPは、プール�
 このエラーの原因は、あなたがSYRUPトークンを売却または譲渡したためです。  
 SYRUPは、CAKE-CAKEプールにステークするCAKEと1対1の比率で発行されます。コントラクトを実行してleaveStaking（プールからCAKEをアンステークする）機能を呼び出す際、SYRUPはCAKEと1:1の割合で燃やさる必要があります。この時SYRUPが足りなければ、プールからCAKEを外すことができません。
 
-{% embed url="https://dashboard.tenderly.co/tx/binance/0x754e18ceea82acac256b49c2b7a81260f7f86dd5e56ee2e3cc1b6ac864c29a8e" %}
+{% embed url="https://dashboard.tenderly.co/tx/binance/0x754e18ceea82acac256b49c2b7a81260f7f86dd5e56ee2e3cc1b6ac864c29a8e" caption="" %}
 
 ![](https://lh4.googleusercontent.com/KchAcnM6cpX2BotEGppAxPAnY4Xbona6yI6ZWg9FlUUBfPi_YO9ulM1s6htXJVXMzEwl0Uxcvdk8o4yhI7ar5g0TRpLVFjkS4YLKL7FS8Z4uFqeC37sw-TIkrPr7BCZQVpuD-5jO)
 {% endtab %}
@@ -219,7 +219,7 @@ SYRUPは、CAKE-CAKEプールにステークするCAKEと1対1の比率で発行
 {% tabs %}
 {% tab title="解決方法" %}
 トランザクションを承認する前に、ウォレット設定にて手動でガス上限を調節してください。  
-ガス上限は使用されるガスの上限値であって、ガス代そのものではありません。 
+ガス上限は使用されるガスの上限値であって、ガス代そのものではありません。
 
 通常、上限値は20万で充分です。
 
@@ -244,7 +244,7 @@ SYRUPは、CAKE-CAKEプールにステークするCAKEと1対1の比率で発行
 
 {% tabs %}
 {% tab title="解決方法" %}
-コントラクトに直接アクセスして「emergencyWithdraw」を実行することでステークしたトークンをアンステークすることができます。 
+コントラクトに直接アクセスして「emergencyWithdraw」を実行することでステークしたトークンをアンステークすることができます。
 
 1. トークンをアンステークしようとしているシロッププールのコントラクトアドレスを見つけてください。このアドレスはウォレットのトランザクション履歴に記載されています。
 2. [https://bscscan.com/](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract%20) に移動し、検索バーに見つけたコントラクトアドレスを入力します

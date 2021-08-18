@@ -2,8 +2,6 @@
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MYfS5YC3DpeGv0IhkFu%2F-MYfSE9M1v0V6Wq2NZPN%2Fmasthead%20twitter%20%283%29.png?alt=media&token=b3426f53-cffe-487e-b08e-ae895ba80eed)
 
-####  <a id="pancakeswap-helps-you-make-the-most-out-of-your-crypto-in-three-ways"></a>
-
 {% hint style="success" %}
 #### PancakeSwap helps you make the most out of your crypto in three ways: <a id="pancakeswap-helps-you-make-the-most-out-of-your-crypto-in-three-ways"></a>
 
@@ -46,11 +44,11 @@ No farm? No problem. Even if your trading pair isn’t supported on the Farms pa
 
 > PancakeSwap makes making money fun.
 
-### Lottery  <a id="lottery"></a>
+### Lottery <a id="lottery"></a>
 
 **Millions of dollars** regularly go up for grabs on the PancakeSwap Lottery. Join as many as **11,000 daily players** for your chance to win big!
 
-### NFT Collectibles  <a id="nft-collectibles"></a>
+### NFT Collectibles <a id="nft-collectibles"></a>
 
 Win collectible NFTs for participating in trading competitions and more fun & games.
 
@@ -75,6 +73,6 @@ See for yourself:
 
 ​
 
-**Sounds like fun?   
+**Sounds like fun?  
 Then get flipping!** 🐰 🥞
 

@@ -6,11 +6,11 @@
 
 **Ticker:** CAKE
 
-**Contract Address:** [https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82) 
+**Contract Address:** [https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82)
 
 **Chain:** Binance Smart Chain \(BEP-20\)
 
-### **Emission rate:**
+## **Emission rate:**
 
 |  | Emission/block \(CAKE\) | Emission/day \(CAKE\) |
 | :--- | ---: | ---: |
@@ -18,14 +18,14 @@
 | Burned | -15 | -450,000 |
 | **Effective Emission** | **25** | **750,000** |
 
-### Distribution:
+## Distribution:
 
 | Distributed to | Reward/block\(% of emission\) | Reward/block \(total CAKE\) | Reward/day |
 | :--- | ---: | ---: | ---: |
 | Farmers | 60% | 15 | 450,000 |
 | Syrup pools | 40% | 10 | 300,000 |
 
-### **Other Deflationary Mechanics:**
+## **Other Deflationary Mechanics:**
 
 At present,
 

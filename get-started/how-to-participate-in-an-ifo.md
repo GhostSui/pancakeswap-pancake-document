@@ -4,13 +4,13 @@ description: このページでは、IFO(イニシャル・ファーム・オフ
 
 # IFOへの参加方法
 
-IFOとは、PancakeSwap\(パンケーキスワップ\)に新たにリストされるトークンをIFO用の固定価格で購入することができるイベントです。新トークンをいち早く手に入れることで、より高い収益を期待することができます。**IFOは時間制限付きイベント**のため、本ページを読んで事前によく準備してくださいね！ 
+IFOとは、PancakeSwap\(パンケーキスワップ\)に新たにリストされるトークンをIFO用の固定価格で購入することができるイベントです。新トークンをいち早く手に入れることで、より高い収益を期待することができます。**IFOは時間制限付きイベント**のため、本ページを読んで事前によく準備してくださいね！
 
 ※本ページではIFOで購入する対象となるトークンを「新トークン」と呼びます。
 
 ## IFOが始まる前にすべきこと <a id="before-the-ifo"></a>
 
- IFOが始まる前にしなければならないことはいくつかあります。次の手順に従い、IFOに乗り遅れないようにしましょう。 
+IFOが始まる前にしなければならないことはいくつかあります。次の手順に従い、IFOに乗り遅れないようにしましょう。
 
 ### 1. PancakeSwapプロフィールを作成しましょう <a id="create-your-pancakeswap-profile"></a>
 
@@ -24,9 +24,9 @@ Pancakeプロフィールを手に入れたら、次はCAKE-BNBペアの流動�
 
 ### ここで進捗を確認してください <a id="check-on-your-progress"></a>
 
-手順1と2が完了したら、PancakeSwapの[IFOページ](https://pancakeswap.finance/ifo)に移動して「参加方法」欄を見てみてください。 
+手順1と2が完了したら、PancakeSwapの[IFOページ](https://pancakeswap.finance/ifo)に移動して「参加方法」欄を見てみてください。
 
-![](../.gitbook/assets/image%20%28116%29%20%281%29%20%281%29.png)
+![](../.gitbook/assets/image%20%28116%29%20%281%29%20%282%29.png)
 
 画像のように手順3の「LPトークンを投資」に到達しましたか？もしそうでない場合は、再度手順を見直してください。
 
@@ -68,27 +68,23 @@ IFOが開催されている1時間のあいだ、いつでもCAKE-BNB LPトー�
 
 どちらのセール形式でも新トークンを購入できることに変わりはありませんが、ベーシックセールには上限があります。少量の新トークンをお求めの場合は、ベーシックセールのご利用をお勧めします。
 
-
-
 ### **ベーシックセールにCAKE-BNB LPトークンをコミットする** <a id="committing-tokens-to-the-basic-sale"></a>
 
 1. ベーシックセール欄内にある「**Commit LP Tokens**」ボタンをクリックして、ベーシックセールにLPトークンをコミットしましょう。
 
 ![](https://lh6.googleusercontent.com/RsQaoFoDpcE1YJgCp4KXRYG5zea1XRm-7pPqQpxA97i7D_sn_lmDfJB8WeH4fkH_2Gs76mnJq2xKVfuQKGaDZGLIXTxru8wYP2Yykmc1V4S8QCZGnZ9-FpudtcD2Jt1kMTsd7g2h)
 
-2. 次のようなウィンドウが表示されたはずです。このウィンドウでコミットしたいLPトークン量を入力してください。
+1. 次のようなウィンドウが表示されたはずです。このウィンドウでコミットしたいLPトークン量を入力してください。
 
 ![](https://lh5.googleusercontent.com/yzrcq53uIbk2EoVqXXDyAWlVAp998_IAhCCQMlxi0fh8dI15hBcJNls2oO4SckaPtmmaNFatWJm4f9BOUH-fhIf6KsaQv3h32nqPmAroVBEY3SedB0WVTep9B88Za_Ez6ZVRu6eK)
 
 ベーシックセールの購入限度額は約100ドルです。新トークン購入に使えなかったLPトークンはすべて返却されますので、LPトークンを失う心配は無用です。
 
-3. 「**Confirm**」ボタンをクリックして、ウォレットウィンドウでトランザクションを承認します。LPトークンがコミットされると、ベーシックセール欄内「Your LP Tokens Committed」にコミットされた金額が表示されます。
+1. 「**Confirm**」ボタンをクリックして、ウォレットウィンドウでトランザクションを承認します。LPトークンがコミットされると、ベーシックセール欄内「Your LP Tokens Committed」にコミットされた金額が表示されます。
 
 ![](https://lh5.googleusercontent.com/LL-9EVpUQlDIbIrZzwmgfYpRHpq1AolDhML9rZGSafBhM_7GfV-sw9ZQqL4Tn4j6JIyTGxkU-K7S2Z23WItu_GafnSZHb3fI9hzlwGKTS17aLOZdrU5iHfXvedBzaI-Q8weHSF6Q)
 
 ベーシックセール形式での購入上限額に達していない限り、IFO開催中はいつでもLPトークンを追加することができます。上限に達している場合は、「**Commit LP Tokens**」ボタンがグレーアウトした「**Max Committed**」ボタンに変わります。IFOにコミットするLPトークン量が確定したら、IFO終了を待って「新トークンを受け取る」手順に進んでください。
-
-
 
 ### **アンリミテッドセールにCAKE-BNB LPトークンをコミットする** <a id="committing-lp-tokens-to-the-unlimited-sale"></a>
 
@@ -96,13 +92,13 @@ IFOが開催されている1時間のあいだ、いつでもCAKE-BNB LPトー�
 
 ![](https://lh6.googleusercontent.com/RsQaoFoDpcE1YJgCp4KXRYG5zea1XRm-7pPqQpxA97i7D_sn_lmDfJB8WeH4fkH_2Gs76mnJq2xKVfuQKGaDZGLIXTxru8wYP2Yykmc1V4S8QCZGnZ9-FpudtcD2Jt1kMTsd7g2h)
 
-2. 表示されたウィンドウで、コミットするLPトークン量を入力してください。
+1. 表示されたウィンドウで、コミットするLPトークン量を入力してください。
 
 ![](https://lh6.googleusercontent.com/LFn-zETI5pwPko-YmsaAK8nH7U3YGhFJXuiDONWeUh6lw0cCH1xPf6wOSbxy-dzd0DEjz-AtxcnzXyuft8U9RdbgXzNNlAfYaoNvl4XqaTr2d8JoPLUaijKkjdSQvQEYMiYSmqhD)
 
 アンリミテッドセール形式では、コミットできるLPトークン数に制限がありません。もちろん、新トークン購入に使用されなかったLPトークンは返却されますのでご安心ください。
 
-3. 「**Confirm**」ボタンをクリックして、ウォレットウィンドウでトランザクションを承認します。LPトークンがコミットされると、アンリミテッドセール欄内「Your LP Tokens Committed」にコミットされた金額が表示されます。
+1. 「**Confirm**」ボタンをクリックして、ウォレットウィンドウでトランザクションを承認します。LPトークンがコミットされると、アンリミテッドセール欄内「Your LP Tokens Committed」にコミットされた金額が表示されます。
 
 ![](https://lh3.googleusercontent.com/1k5gjysitCJPDNFXFYJXrFHVGHIEPvfVrSe_Aa0JuRx3D6txXJgjJFO9-or6E-1yeXacfclpGpiUm8ckDcm2ETWGpOTqtK8tT95rVT0UHlvcoYB54Gwapp3mRkz6yg69vg25qWwx)
 

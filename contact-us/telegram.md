@@ -4,23 +4,23 @@ description: PancakeSwap(パンケーキスワップ)の公式ソーシャルメ
 
 # SNSとコミュニティ
 
-### 🐦ツイッター
+## 🐦ツイッター
 
 [https://twitter.com/pancakeswap](https://twitter.com/pancakeswap)
 
-### 📰 ブログ \(Medium\)
+## 📰 ブログ \(Medium\)
 
-{% embed url="https://medium.com/@pancakeswap" %}
+{% embed url="https://medium.com/@pancakeswap" caption="" %}
 
-### 👽 レディット
+## 👽 レディット
 
-{% embed url="https://reddit.com/r/pancakeswap" %}
+{% embed url="https://reddit.com/r/pancakeswap" caption="" %}
 
-### 🤳 インスタグラム
+## 🤳 インスタグラム
 
-{% embed url="https://www.instagram.com/pancakeswap\_official/" %}
+{% embed url="https://www.instagram.com/pancakeswap\_official/" caption="" %}
 
-### 💬 テレグラム
+## 💬 テレグラム
 
 **公式テレグラムコミュニティ：**
 
