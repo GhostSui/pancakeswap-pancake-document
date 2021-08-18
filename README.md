@@ -1,7 +1,5 @@
 # PancakeSwap Intro
 
-
-
 ![](.gitbook/assets/masthead-twitter-3-%20%281%29.png)
 
 {% hint style="success" %}
@@ -20,13 +18,13 @@ PancakeSwap is the leading decentralized exchange on Binance Smart Chain, with t
 
 ### Low fees
 
-Why pay more? PancakeSwap runs on Binance Smart Chain, a blockchain with much lower transaction costs than Ethereum or Bitcoin.   
+Why pay more? PancakeSwap runs on Binance Smart Chain, a blockchain with much lower transaction costs than Ethereum or Bitcoin.  
 Trading fees are lower than other top decentralized exchanges too, so that's a double win for you!
 
 ### Decentralized
 
-Trade directly from your wallet app.   
-Unlike centralized exchanges like Binance or Coinbase, PancakeSwap doesn’t hold your funds when you trade: **you have 100% ownership of your own crypto**. 
+Trade directly from your wallet app.  
+Unlike centralized exchanges like Binance or Coinbase, PancakeSwap doesn’t hold your funds when you trade: **you have 100% ownership of your own crypto**.
 
 ## 💸 Earn
 
@@ -34,7 +32,7 @@ Unlike centralized exchanges like Binance or Coinbase, PancakeSwap doesn’t hol
 
 ### Earn tokens with Syrup Pools
 
-Stake CAKE, earn free tokens. It’s really that easy.   
+Stake CAKE, earn free tokens. It’s really that easy.  
 CAKE holders right now are earning tens of millions of USD worth of free tokens each week from major projects. New projects join the party every day, so you can earn more, for even longer.
 
 ### Earn CAKE with Yield Farms
@@ -49,20 +47,19 @@ No farm? No problem. Even if your trading pair isn’t supported on the Farms pa
 
 > PancakeSwap makes making money fun.
 
-### Lottery 
+### Lottery
 
-**Millions of dollars** regularly go up for grabs on the PancakeSwap Lottery.   
+**Millions of dollars** regularly go up for grabs on the PancakeSwap Lottery.  
 Join as many as **11,000 daily players** for your chance to win big!
 
-### NFT Collectibles 
+### NFT Collectibles
 
 Win collectible NFTs for participating in trading competitions and more fun & games.
 
 ### Prediction
 
 Win BNB if you can predict whether the BNB price will rise or fall.  
-New rounds every 5 minutes!  
-
+New rounds every 5 minutes!
 
 ## Is PancakeSwap safe?
 
@@ -79,9 +76,6 @@ See for yourself:
   * The chefs use multisig for all contracts.
   * Our contracts’ time-lock gives you peace of mind.
 
-
-
 **Sounds like fun?  
-Then get flipping!** 🐰 🥞  
-****
+Then get flipping!** 🐰 🥞
 

@@ -1,6 +1,6 @@
 # CAKE
 
-![](../../.gitbook/assets/docs-masthead-17-%20%281%29.png)
+![](../../.gitbook/assets/docs-masthead-17-%20%281%29%20%281%29.png)
 
 * **Ticker:** CAKE
 * **Contract Address:** [https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82) 
@@ -27,8 +27,6 @@ Check below to discover the nuts and bolts of how CAKE works.
 {% page-ref page="cake-tokenomics.md" %}
 
 {% page-ref page="controlling-cake-supply.md" %}
-
-
 
 ### \*\*\*\*
 
