@@ -1,6 +1,6 @@
 # Business Partnerships
 
-## Farms and Syrup Pools 
+## Farms and Syrup Pools
 
 Farms incentivize users to provide liquidity for your trading pair by distributing CAKE to your pair's LP Token holders.
 
@@ -37,7 +37,7 @@ Anybody can "list" any BEP-20 network token on PancakeSwap. You don't need to co
 
 You need to launch a Syrup Pool or IFO in order to be added to the list. See above.
 
-We don't accept requests to add tokens to the approved list. 
+We don't accept requests to add tokens to the approved list.
 
 ### How can I add my token's logo/icon?
 
