@@ -60,8 +60,6 @@ description: >-
 
 ![](https://lh5.googleusercontent.com/T1KMtz2ILDVHljGw1iLbIv0W1KVl7qXL8zU2nLFHkUvDb5oMw9mpUzzBwWmIBz15XDsxZ5w7wsaqAwCs_pxdobz_kY_7BhcZhYtpqWuQGFs23DZq98-SVInlfsS07WzxFPLIYXHt)
 
-
-
 ![](https://lh5.googleusercontent.com/7aspaCCvDjzxbJxngqwgeq737LB3OUNcAs592QqlEkyrAOTfKsrt_FAwpEylaIJhff5ZcYlzB_r0v1JZwfj3j8Ah6jlUbRoMrAqVfTb3cwDI7B1i5HJtZSQOsTPrv7l7SaclC3BV)
 {% endtab %}
 
@@ -72,7 +70,7 @@ description: >-
 
 ### Одобрить **LP контракт**
 
-Отправляйтесь к контракту с токеном LP, который вы пытаетесь одобрить..   
+Отправляйтесь к контракту с токеном LP, который вы пытаетесь одобрить..  
 Например, вот ETH/WBNB пара: [https://bscscan.com/address/0x70d8929d04b60af4fb9b58713ebcf18765ade422](https://bscscan.com/address/0x70d8929d04b60af4fb9b58713ebcf18765ade422)
 
 1. Нажмите **Write Contract**, потом **Connect to Web3** и подключите кошелек. ![](https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
@@ -112,7 +110,7 @@ description: >-
 
 > The transaction cannot succeed due to error: PancakeRouter: EXPIRED. This is probably an issue with one of the tokens you are swapping.
 
-Попробуйте еще раз, но при этом подтвердите \(подпишите и отправьте в сеть\) транзакцию как только её сгенерируете. 
+Попробуйте еще раз, но при этом подтвердите \(подпишите и отправьте в сеть\) транзакцию как только её сгенерируете.
 
 Подобное может случиться, если вы начали сделку, но не закончили её вовремя. Постарайтесь сразу нажать кнопку "Confirm".
 
@@ -122,9 +120,7 @@ description: >-
 
 Обновите страницу и попробуйте снова. Увеличьте коэфициент проскальзывания.
 
- Вероятнее всего, в момент сделки слишком быстро изменилась цена токена. Подобное происходит в периоды сильной волотильности и ажиотажа на рынке. Сайт может отображать устаревшую информацию из смартконтракта \(цена/кол-во токенов к покупке\). По этой причине сделка может не состояться.
-
-
+Вероятнее всего, в момент сделки слишком быстро изменилась цена токена. Подобное происходит в периоды сильной волотильности и ажиотажа на рынке. Сайт может отображать устаревшую информацию из смартконтракта \(цена/кол-во токенов к покупке\). По этой причине сделка может не состояться.
 
 ## Сложности с **Syrup Пулом**
 
@@ -157,13 +153,11 @@ description: >-
 {% endtab %}
 
 {% tab title="Причина" %}
-Чтобы это больше не повторилось, **не продавай свои SYRUP.**  Тебе он нужен чтобы снять саке из “Stake CAKE Earn CAKE” пула.
+Чтобы это больше не повторилось, **не продавай свои SYRUP.** Тебе он нужен чтобы снять саке из “Stake CAKE Earn CAKE” пула.
 
 Эта ошибка произошла из-за того, что вы продали или отправили токены SYRUP. SYRUP печатается в соотношении 1:1 к CAKE, когда вы делаете вклад в пул CAKE-CAKE. SYRUP должен быть сожжен в соотношении 1:1 к CAKE при запросе функции leaveStaking \(снятие из пула CAKE\), так что если тебе не хватает, ты не можешь выйти из пула.
 
-{% embed url="https://dashboard.tenderly.co/tx/binance/0x754e18ceea82acac256b49c2b7a81260f7f86dd5e56ee2e3cc1b6ac864c29a8e" %}
-
-
+{% embed url="https://dashboard.tenderly.co/tx/binance/0x754e18ceea82acac256b49c2b7a81260f7f86dd5e56ee2e3cc1b6ac864c29a8e" caption="" %}
 
 ![](https://lh4.googleusercontent.com/KchAcnM6cpX2BotEGppAxPAnY4Xbona6yI6ZWg9FlUUBfPi_YO9ulM1s6htXJVXMzEwl0Uxcvdk8o4yhI7ar5g0TRpLVFjkS4YLKL7FS8Z4uFqeC37sw-TIkrPr7BCZQVpuD-5jO)
 {% endtab %}
@@ -177,7 +171,7 @@ description: >-
 
 {% tabs %}
 {% tab title="Решение" %}
-Попробуйте вручную увеличить **gas limit** \(не трогайте gas price \(gwei\)!\) в вашем кошельке перед тем, как подписать транзакцию. 
+Попробуйте вручную увеличить **gas limit** \(не трогайте gas price \(gwei\)!\) в вашем кошельке перед тем, как подписать транзакцию.
 
 Лимита в 200000 почти всегда достаточно.
 
@@ -189,7 +183,7 @@ description: >-
 {% tab title="Причина" %}
 Все просто, твой кошелек \(Metamask, Trust Wallet и т.д.\) не может завершить то, что он пытается сделать.
 
-Ваш кошелек расчитал не правильно, лимит газа слишком мал- поэтому вызов функции обрывается до завершения вызываемой функции.  
+Ваш кошелек расчитал не правильно, лимит газа слишком мал- поэтому вызов функции обрывается до завершения вызываемой функции.
 {% endtab %}
 {% endtabs %}
 

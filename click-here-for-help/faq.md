@@ -12,21 +12,19 @@ description: 'Огромное спасибо нашему боту s1mer, он 
 
 Не стоит этого делать! $SYRUP не предназначен для торговли.
 
-Тебе он нужен чтобы снять саке из “Stake CAKE Earn CAKE” пула. SYRUP печатается в соотношении 1:1 к CAKE, когда вы делаете вклад в пул CAKE-CAKE. SYRUP должен быть сожжен в соотношении 1:1 к CAKEчтобы выйти из пула. 
+Тебе он нужен чтобы снять саке из “Stake CAKE Earn CAKE” пула. SYRUP печатается в соотношении 1:1 к CAKE, когда вы делаете вклад в пул CAKE-CAKE. SYRUP должен быть сожжен в соотношении 1:1 к CAKEчтобы выйти из пула.
 
 **Если вы продали, то теперь необходимо купить SYRUP на бирже.**
 
 ## Как я могу использовать CAKE?
 
-Используйте пулы 
+Используйте пулы
 
 [https://pancakeswap.finance/](https://pancakeswap.finance/pools)
 
 ## Как мне подключить кошелёк к PancakeSwap?
 
 Для того, чтобы подключить кошелек, необходимо нажать на кнопку "unlock wallet" в правом верхнем углу страницы. После этого найдите кошелек, который вы хотите подключить к PancakeSwap и нажмите кнопку "connect". Подтвердите соединение.
-
-
 
 ## What is the difference between staking and farming?
 
@@ -95,6 +93,4 @@ $CAKE does not have a max. supply at the time of writing.
 You can check the analytics of PancakeSwap by click on the "Analytics" tab on the top menu or by clicking the link below.
 
 Analytics: [https://pancakeswap.info/](https://pancakeswap.info/)
-
-
 

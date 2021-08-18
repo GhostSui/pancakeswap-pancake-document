@@ -4,25 +4,25 @@ description: Давай дружить!
 
 # Социальные сети и сообщества
 
-### 🐦 Twitter
+## 🐦 Twitter
 
 [https://twitter.com/pancakeswap](https://twitter.com/pancakeswap)
 
-### 📰 Блог \(Medium\)
+## 📰 Блог \(Medium\)
 
-{% embed url="https://medium.com/@pancakeswap" %}
+{% embed url="https://medium.com/@pancakeswap" caption="" %}
 
-### 👽 Reddit
+## 👽 Reddit
 
-{% embed url="https://reddit.com/r/pancakeswap" %}
+{% embed url="https://reddit.com/r/pancakeswap" caption="" %}
 
-### 🤳 Instagram
+## 🤳 Instagram
 
-{% embed url="https://www.instagram.com/pancakeswap\_official/" %}
+{% embed url="https://www.instagram.com/pancakeswap\_official/" caption="" %}
 
-### 💬 Telegram
+## 💬 Telegram
 
-**Официальные группы Telegram:** 
+**Официальные группы Telegram:**
 
 * 📣 Анонсы \([http://t.me/PancakeSwapAnn](http://t.me/PancakeSwapAnn)\) 
 * 🥞 English \([http://t.me/pancakeswap](http://t.me/pancakeswap)\) 
@@ -33,7 +33,7 @@ description: Давай дружить!
 * 🇪🇸 🇦🇷 🇻🇪 Español \([https://t.me/PancakeSwapES](https://t.me/PancakeSwapES)\) 
 * 🇷🇺 Русская \([http://t.me/pancakeswap\_ru](http://t.me/pancakeswap_ru)\) 
 * 🇧🇷 🇵🇹 Portuguese/Brazilian Community \([https://t.me/PancakeSwapPortuguese](https://t.me/PancakeSwapPortuguese)\)
-*  🇫🇷 French \([https://t.me/pancakeswapfr](https://t.me/pancakeswapfr)\) 
+* 🇫🇷 French \([https://t.me/pancakeswapfr](https://t.me/pancakeswapfr)\) 
 * 🇮🇹 Italiano \([https://t.me/pancakeswap\_ita](https://t.me/pancakeswap_ita)\) 
 * 🇹🇷 Türkiye \([https://t.me/pancakeswapturkiye](https://t.me/pancakeswapturkiye)\) 
 * 😤 В случае бана \([https://t.me/joinchat/C\_9mwknNuKq-cfXQ4-HMHA](https://t.me/joinchat/C_9mwknNuKq-cfXQ4-HMHA)\)
