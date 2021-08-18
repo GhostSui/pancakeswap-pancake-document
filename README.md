@@ -1,8 +1,6 @@
 # PancakeSwap Intro
 
-
-
-![](.gitbook/assets/masthead-twitter-3-.png)
+![](.gitbook/assets/masthead-twitter-3-%20%281%29%20%281%29.png)
 
 {% hint style="success" %}
 **PancakeSwap te ayuda a sacar el máximo partido de tus criptomonedas de tres maneras:**
@@ -33,14 +31,12 @@ A diferencia de los exchanges centralizados como Binance o Coinbase, PancakeSwap
 
 ### Gana tokens con los Syrup Pools
 
-Gana tokens gratis haciendo Stake de CAKE. Es así de simple como suena.   
+Gana tokens gratis haciendo Stake de CAKE. Es así de simple como suena.  
 Los holders de CAKE en este momento están ganando decenas de millones de dólares en tokens gratis cada semana de grandes proyectos. Nuevos protocolos se unen a la fiesta todos los días, por lo que se puede ganar más, por más tiempo.
-
-
 
 ### Gana CAKE con las Yield Farms
 
-Haciendo Stake  de LP tokens ganas CAKE.  Asumes un poco más de exposición a las fluctuaciones del mercado que con los Syrup Pools, pero puedes ganar rendimientos más altos para compensar el riesgo.
+Haciendo Stake de LP tokens ganas CAKE. Asumes un poco más de exposición a las fluctuaciones del mercado que con los Syrup Pools, pero puedes ganar rendimientos más altos para compensar el riesgo.
 
 ### Gana Fees de Trading
 
@@ -54,15 +50,14 @@ No farm? No problem. Even if your trading pair isn’t supported on the Farms pa
 
 **Millones de dólares** regularmente están en juego en la Lotería PancakeSwap. ¡Únete a los 11.000 jugadores diarios para tener la oportunidad de ganar a lo grande!
 
-### Coleccionables NFT 
+### Coleccionables NFT
 
 Gana NFTs coleccionables por participar en competiciones de trading y muchos más juegos y actividades divertidas por venir.
 
 ### Predicción
 
 Gana BNB si puedes predecir si el precio de BNB subirá o bajará.  
-Nuevas rondas cada 5 minutos!  
-
+Nuevas rondas cada 5 minutos!
 
 ## Es seguro PancakeSwap?
 
@@ -79,9 +74,6 @@ Puedes verlo tú mismo:
   * Los chefs utilizan multisig para todos los contratos.
   * El Timelock de nuestros contratos buscan brindar tranquilidad
 
-
-
 **Suena divertido?  
-Entonces a cocinar Panqueques!** 🐰 🥞  
-****
+Entonces a cocinar Panqueques!** 🐰 🥞
 

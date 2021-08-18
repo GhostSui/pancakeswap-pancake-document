@@ -2,9 +2,9 @@
 
 ## Stake CAKE, gana CAKE! <a id="stake-cake-earn-cake"></a>
 
-Ahora tienes dos deliciosos sabores de CAKE-CAKE Pool para elegir: Auto-compounding y Manual. 
+Ahora tienes dos deliciosos sabores de CAKE-CAKE Pool para elegir: Auto-compounding y Manual.
 
-¡Sigue leyendo para obtener más información! 
+¡Sigue leyendo para obtener más información!
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MZW0sdwEdpAMmFILaFG%2F-MZW2B34cavs6S7ETBKf%2Fauto%20and%20manual%20pools.png?alt=media&token=c3ed2d1d-f9e5-461a-bd3d-02b453080bf5)
 

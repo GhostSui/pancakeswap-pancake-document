@@ -39,15 +39,13 @@ Ahora que ha encontrado un Farm, deberás agregar liquidez para obtener tus toke
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-Ma7L32Nr0z6VnrNnAQW%2F-Ma7UI8WPxQFNL1V_zAZ%2Fimage.png?alt=media&token=137ec648-a7e3-44cc-ab9d-0fbaebecdb5c)
 
-Esto abrirá la página de Add Liquidity para agregar liquidez para el par elegido. 
+Esto abrirá la página de Add Liquidity para agregar liquidez para el par elegido.
 
 Tenemos una [guía para agregar liquidez](https://docs.pancakeswap.finance/v/espanol/products/pancakeswap-exchange/anadir-remover-liquidez) que puede seguir para obtener sus tokens LP.
 
 ## Poniendo los LP Tokens dentro de un Farm <a id="putting-your-lp-tokens-into-a-farm"></a>
 
 Ahora que tienes tus tokens LP, ¡estás listo para comenzar a depositarlos en un Farm y ganar recompensas!
-
-###  <a id="putting-your-lp-tokens-into-the-farm"></a>
 
 1. Vuelva a la página de [Farms ](https://pancakeswap.finance/farms)y localice la suya. Haz clic en cualquier parte de la fila que muestre a tu par. Se expandirá para mostrar más detalles.
 

@@ -22,5 +22,3 @@ Al reducir la cantidad de CAKE emitido por bloque, ralentizamos la inflación. E
 
 Las quemas de token regulares \([esta es la dirección de contrato](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82?a=0x000000000000000000000000000000000000dead)\) están integradas en muchos de los productos de PancakeSwap \(como una quema del 20% de CAKE gastado en boletos de lotería\), con más en camino. Consulte la página de CAKE Tokenomics para obtener detalles sobre los mecanismos deflacionarios actuales y futuros.
 
-
-

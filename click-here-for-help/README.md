@@ -6,11 +6,11 @@ Si te encuentras atascado, si algo no funciona como está destinado, o no estás
 
 ## Secciones de Ayuda <a id="help-sections"></a>
 
-Hemos dividido el tema de ayuda en secciones para ayudarte a encontrar lo que buscas. 
+Hemos dividido el tema de ayuda en secciones para ayudarte a encontrar lo que buscas.
 
 ### Errores Frecuentes <a id="troubleshooting-errors"></a>
 
-La página Errores Frecuentes tiene una colección de errores con los que los usuarios pueden encontrarse al usar PancakeSwap. Muestra cada problema con una posible solución  y una razón que explica el por qué ocurrió el problema.
+La página Errores Frecuentes tiene una colección de errores con los que los usuarios pueden encontrarse al usar PancakeSwap. Muestra cada problema con una posible solución y una razón que explica el por qué ocurrió el problema.
 
 ### Preguntas Frecuentes generales <a id="general-faq"></a>
 

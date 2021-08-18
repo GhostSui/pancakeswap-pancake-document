@@ -59,7 +59,7 @@ Depende de tus necesidades. Tenemos una guía de [cómo seleccionar y crear una 
 
 Puedes ver el estado de la transacción en [https://bscscan.com/](https://bscscan.com/).
 
-Nuestra [Guía de Errores Frecuentes](https://docs.pancakeswap.finance/help/troubleshooting)  tal vez tiene la solución a lo que estés buscando.
+Nuestra [Guía de Errores Frecuentes](https://docs.pancakeswap.finance/help/troubleshooting) tal vez tiene la solución a lo que estés buscando.
 
 También puedes ver nuestro apartado de [Cómo arreglar transacciones pendientes atoradas](https://docs.pancakeswap.finance/help/unsticking-a-transaction-stuck-as-pending-with-metamask).
 
@@ -67,7 +67,7 @@ También puedes ver nuestro apartado de [Cómo arreglar transacciones pendientes
 
 Nuevos Pools son agregados frecuentemente. Siempre habrá un anuncio antes del lanzamiento de nuevos Pools.
 
-En el  [Grupo de Telegram de Anuncios](https://t.me/PancakeSwapAnuncios) para enterarte lo antes posible.
+En el [Grupo de Telegram de Anuncios](https://t.me/PancakeSwapAnuncios) para enterarte lo antes posible.
 
 ## Cómo consigo airdrops?
 
@@ -89,8 +89,8 @@ Para obtener más información sobre la votación, puede leer nuestra sección s
 
 ## Cuál es el max supply de CAKE?
 
-$CAKE no tiene un supply \(circulante\) máximo. El suministro circulante se gestiona a través de la quema incorporada y los eventos de quema regulares.  
-  
+$CAKE no tiene un supply \(circulante\) máximo. El suministro circulante se gestiona a través de la quema incorporada y los eventos de quema regulares.
+
 Para aprender de las tokenomics de cake puedes leer esta sección [learn more about PancakeSwap's tokenomics](https://docs.pancakeswap.finance/tokenomics/cake).
 
 ## Para qué se utilizan los fondos del tesoro?
@@ -101,7 +101,7 @@ Los fondos del tesoro se utilizan para cubrir los gastos involucrados en la gest
 
 Puede consultar las analíticas de PancakeSwap haciendo clic en la pestaña "**Info**" en el menú superior o haciendo clic en el siguiente enlace:
 
- **Info**: [https://pancakeswap.info/](https://pancakeswap.info/)
+**Info**: [https://pancakeswap.info/](https://pancakeswap.info/)
 
 ## Está PancakeSwap protegida frente a flash loans?
 
@@ -111,7 +111,7 @@ Otros contratos inteligentes de PancakeSwap, como IFO y Auto-Cake Pool, también
 
 ## Puedo unirme al equipo de PancakeSwap?
 
-Podés chequear la parte [Become a Chef](https://docs.pancakeswap.finance/hiring/become-a-chef) para encontrar las posiciones que estamos buscando. 
+Podés chequear la parte [Become a Chef](https://docs.pancakeswap.finance/hiring/become-a-chef) para encontrar las posiciones que estamos buscando.
 
 Anunciamos nuevos puestos que estamos buscando en nuestras redes sociales, así que asegúrate de seguirnos para obtener toda la info más reciente.
 
@@ -122,6 +122,4 @@ SYRUP fue una parte del proceso de staking a principios de la vida de PancakeSwa
 ## No puedo encontrar una respuesta a mi pregunta. ¿Dónde puedo buscarla?
 
 Si no puedes encontrar lo que estás buscando en la documentación de PancakeSwap, haga su pregunta en las redes sociales oficiales de PancakeSwap y alguien hará todo lo posible para ayudarlo.
-
-
 

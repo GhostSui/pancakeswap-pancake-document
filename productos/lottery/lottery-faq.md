@@ -2,7 +2,7 @@
 
 ## Qué pasa si no hay ganadores?
 
-Si no hay premios ganados en una ronda no se tiran a la basura! Los premios pasan directamente a la siguiente ronda. 
+Si no hay premios ganados en una ronda no se tiran a la basura! Los premios pasan directamente a la siguiente ronda.
 
 ## Mi Ticket coincide con varios números, pero no puedo reclamar ningún premio
 
@@ -72,6 +72,4 @@ Usted puede comprar más de 100 tickets, pero sólo de a 100 en cada compra. No 
 ## Si creo manualmente dos o más boletos con los mismos números y ganan, ¿soy elegible para premios por cada boleto?
 
 Sí, cada boleto se trata como una entrada distinta a la Lotería. Sin embargo, tenga en cuenta que los premios no serán de 1:1, ya que cada boleto ganador que tenga diluye cada parte de los premios totales del grupo.
-
-
 

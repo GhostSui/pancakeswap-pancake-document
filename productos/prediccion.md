@@ -1,10 +1,10 @@
 # 🔮 Predicción
 
-![](../.gitbook/assets/masthead%20%285%29%20%284%29%20%281%29.png)
+![](../.gitbook/assets/masthead%20%285%29%20%284%29%20%284%29.png)
 
-Qué es Predicción?  Es un mercado de _predicción_ descentralizado muy divertido y simple, dentro de PancakeSwap
+Qué es Predicción? Es un mercado de _predicción_ descentralizado muy divertido y simple, dentro de PancakeSwap
 
-> #### Predice si el precio de BNB va a subir o caer – acierta en tu predicción para ganar!
+> ## Predice si el precio de BNB va a subir o caer – acierta en tu predicción para ganar!
 
 Es fácil de participar:
 

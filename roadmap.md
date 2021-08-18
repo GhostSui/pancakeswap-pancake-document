@@ -4,13 +4,11 @@ description: '"No me llames Roadmap"'
 
 # Roadmap
 
-
-
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbKS2mFRDg91ZWCu1Fz%2F-MbKZINH3Atuv5bv2dPZ%2Fdocs%20masthead%20%2819%29.png?alt=media&token=a39e0778-1eab-43da-b421-195e3c54d70e)
 
 Bueno, esta bien, en realidad no es una hoja de ruta. Es una lista de tareas pendientes, sin ningún orden en particular y sin plazo de tiempo. Así es como trabajamos: Lo más rápido que podemos, en las cosas que podemos. Ir dando vueltas es una forma de vida.
 
-#### **Renovación Completa del Sitio**
+## **Renovación Completa del Sitio**
 
 * [x] Nueva homepage
 * [x] Cosechar & Stakear todo
@@ -20,13 +18,13 @@ Bueno, esta bien, en realidad no es una hoja de ruta. Es una lista de tareas pen
 * [x] Smartphones friendly
 * [x] Nuevo Sistema de Navegación
 
-#### **CAKE Staking \(Syrup Pools\)**
+## **CAKE Staking \(Syrup Pools\)**
 
 * [x] **CAKE Staking**
 * [x] **Pools Core**
 * [x] **Pools de Comunidad:** Hostear proyectos de la BSC con 0.1-0.2x en CAKE Farms
 
-#### Otros Productos
+## Otros Productos
 
 * [x] **Lotería \(Desarrollo nuevo\)**
 * [x] **Analíticas \(Característica Principal\)**
@@ -41,7 +39,5 @@ Bueno, esta bien, en realidad no es una hoja de ruta. Es una lista de tareas pen
 * [ ] **Staking a Plazo Fijo**
 * [x] **Perfil de Usuario Personalizable**
 
-![Comin&apos; up](.gitbook/assets/image%20%281%29%20%281%29%20%281%29%20%281%29.png)
-
-
+![Comin&apos; up](.gitbook/assets/image%20%281%29%20%281%29%20%281%29%20%282%29.png)
 

@@ -4,7 +4,7 @@
 
 ### **No puedo encontrar el Pool en el que estaba!** <a id="i-cant-find-the-syrup-pool-i-was-staking-in"></a>
 
-Usted debe ser capaz de encontrar su Pool  en la pestaña "Finished" de la página de Syrup Pools.
+Usted debe ser capaz de encontrar su Pool en la pestaña "Finished" de la página de Syrup Pools.
 
 Al seleccionar "Staked Only", hará que sea más fácil encontrar sus activos.
 
@@ -106,6 +106,6 @@ Es básicamente un recibo que muestra cuánto CAKE has depositado en el Pool.
 
 Se devolverá automáticamente cuando retires tu CAKE de ese Pool.
 
-No vendas tus SYRUP! Es necesario devolver su SYRUP para retirar tus CAKE del Pool Manual de CAKE. La cantidad de SYRUP que devuelvas debe ser la misma que la cantidad de CAKE que retires.[  
+No vendas tus SYRUP! Es necesario devolver su SYRUP para retirar tus CAKE del Pool Manual de CAKE. La cantidad de SYRUP que devuelvas debe ser la misma que la cantidad de CAKE que retires.[    
 ](https://docs.pancakeswap.finance/products/syrup-pool/auto-compounding)
 

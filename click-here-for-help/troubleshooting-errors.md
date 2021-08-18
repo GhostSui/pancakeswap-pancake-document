@@ -12,10 +12,10 @@ A veces estamos frente a un problema que no parece tener una solución clara. Es
 
 ## **Problemas en el Exchange**
 
-### **INSUFFICIENT\_OUTPUT\_AMOUNT** 
+### **INSUFFICIENT\_OUTPUT\_AMOUNT**
 
-> The transaction cannot succeed due to error:  PancakeRouter: INSUFFICIENT\_OUTPUT\_AMOUNT. This is probably an issue with one of the tokens you are swapping.
-
+> The transaction cannot succeed due to error: PancakeRouter: INSUFFICIENT\_OUTPUT\_AMOUNT. This is probably an issue with one of the tokens you are swapping.
+>
 > La transacción no pudo realizarse debido al error: PancakeRouter: INSUFFICIENT\_OUTPUT\_AMOUNT. \(Probablemente sea un problema con uno de los tokens que está intercambiando\)
 
 Está intentando intercambiar tokens, pero su tolerancia al deslizamiento \(Slippage\) es demasiado baja o la liquidez es demasiado poca.
@@ -39,7 +39,7 @@ Sin embargo, también existe la posibilidad que estés intentando intercambiar u
 {% endtab %}
 {% endtabs %}
 
-### **INSUFFICIENT\_A\_AMOUNT or INSUFFICIENT\_B\_AMOUNT** 
+### **INSUFFICIENT\_A\_AMOUNT or INSUFFICIENT\_B\_AMOUNT**
 
 > Fail with error 'PancakeRouter: INSUFFICIENT\_A\_AMOUNT'  
 > or  
@@ -66,13 +66,11 @@ Puede darse el caso de que los precios se actualicen demasiado rápido y su tole
 
 ![](https://lh5.googleusercontent.com/T1KMtz2ILDVHljGw1iLbIv0W1KVl7qXL8zU2nLFHkUvDb5oMw9mpUzzBwWmIBz15XDsxZ5w7wsaqAwCs_pxdobz_kY_7BhcZhYtpqWuQGFs23DZq98-SVInlfsS07WzxFPLIYXHt)
 
-
-
 ![](https://lh5.googleusercontent.com/7aspaCCvDjzxbJxngqwgeq737LB3OUNcAs592QqlEkyrAOTfKsrt_FAwpEylaIJhff5ZcYlzB_r0v1JZwfj3j8Ah6jlUbRoMrAqVfTb3cwDI7B1i5HJtZSQOsTPrv7l7SaclC3BV)
 {% endtab %}
 
 {% tab title="Solución para nerds" %}
-OK, estás realmente decidido a resolver esto. No recomendamos realmente hacer esto a menos que sepas lo que estás haciendo. 
+OK, estás realmente decidido a resolver esto. No recomendamos realmente hacer esto a menos que sepas lo que estás haciendo.
 
 Actualmente, no existe una forma sencilla de resolver este problema desde el sitio web de PancakeSwap: vas a necesitar interactuar directamente con el contrato. Puedes agregar liquidez directamente a través del contrato del Router, mientras estableces en "amountAMin" una pequeña cantidad, entonces podrás retirar toda la liquidez.
 
@@ -108,14 +106,14 @@ Dirígete al contrato del Router: [https://bscscan.com/address/0x05ff2b0db69458a
 ![](../.gitbook/assets/image%20%2819%29.png)
 
 {% hint style="warning" %}
-Esto puede causar un muy alto deslizamiento \(Slippage\), y causar que el usuario pierda algunos fondos si realiza Frontrun. 
+Esto puede causar un muy alto deslizamiento \(Slippage\), y causar que el usuario pierda algunos fondos si realiza Frontrun.
 {% endhint %}
 {% endtab %}
 {% endtabs %}
 
-### PancakeRouter: EXPIRED 
+### PancakeRouter: EXPIRED
 
-> The transaction cannot succeed due to error:  PancakeRouter: INSUFFICIENT\_OUTPUT\_AMOUNT. This is probably an issue with one of the tokens you are swapping.
+> The transaction cannot succeed due to error: PancakeRouter: INSUFFICIENT\_OUTPUT\_AMOUNT. This is probably an issue with one of the tokens you are swapping.
 
 Intente de nuevo, pero confirme \(firma y emisión\) la transacción al momento que esta se genera.
 
@@ -128,8 +126,6 @@ Esto sucedió porque comenzó a realizar una transacción, pero no la firmó ni 
 Actualice la página e intente de nuevo, o aumente el deslizamiento \(Slippage\) a través del icono de configuración y vuelva a intentarlo.
 
 Esto probablemente sucedió porque está tratando de comprar o vender tokens durante un gran movimiento de precios. El frontend está obteniendo información desactualizada \(e.g. outAmount\) de los smart contracts, causando que el swap falle.
-
-
 
 ## **Problemas con los Syrup Pools**
 
@@ -150,7 +146,7 @@ No tienes suficientes SYRUP en tu wallet para hacer Unstake del CAKE-CAKE pool.
 {% endtab %}
 
 {% tab title="Solución 2" %}
-Si sigue fallando, puedes intentar un  “emergencyWithdraw”  \(Retiro de emergencia\) directamente desde el contrato donde estaban stakeados los tokens.
+Si sigue fallando, puedes intentar un “emergencyWithdraw” \(Retiro de emergencia\) directamente desde el contrato donde estaban stakeados los tokens.
 
 1. Ir a: [https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E\#writeContract ](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract%20)
 2. Click en **“Connect to Web3”** y conecta tu wallet. ![](https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
@@ -168,9 +164,7 @@ Para que esto no vuelva a pasar, **no vendas tus SYRUP.** Los vas a retirar para
 
 Este error ha aparecido porque has vendido o transferido los SYRUP tokens. Los SYRUP son creados en un ratio 1:1 ratio con CAKE cuando los depositas en el CAKE-CAKE Syrup Pool. Los SYRUP deben ser quemados al mismo ratio 1:1 ratio con CAKE cuando llamamos a la función leaveStaking \(retirar nuestras CAKE del Pool\), entonces si no tienes suficientes, no podrás hacer Unstake del pool.
 
-{% embed url="https://dashboard.tenderly.co/tx/binance/0x754e18ceea82acac256b49c2b7a81260f7f86dd5e56ee2e3cc1b6ac864c29a8e" %}
-
-
+{% embed url="https://dashboard.tenderly.co/tx/binance/0x754e18ceea82acac256b49c2b7a81260f7f86dd5e56ee2e3cc1b6ac864c29a8e" caption="" %}
 
 ![](https://lh4.googleusercontent.com/KchAcnM6cpX2BotEGppAxPAnY4Xbona6yI6ZWg9FlUUBfPi_YO9ulM1s6htXJVXMzEwl0Uxcvdk8o4yhI7ar5g0TRpLVFjkS4YLKL7FS8Z4uFqeC37sw-TIkrPr7BCZQVpuD-5jO)
 {% endtab %}
@@ -196,9 +190,9 @@ El ejemplo de arriba es en Metamask; echa un vistazo a los docs de tu wallet si 
 {% endtab %}
 
 {% tab title="Razón" %}
-Básicamente, tu wallet \(Metamask, Trust Wallet, etc.\) no pudo finalizar lo que intentó hacer. 
+Básicamente, tu wallet \(Metamask, Trust Wallet, etc.\) no pudo finalizar lo que intentó hacer.
 
-Su billetera estima que el límite de gas es demasiado bajo, por lo que la llamada a la función se queda sin gas antes de que finalice la misma.  
+Su billetera estima que el límite de gas es demasiado bajo, por lo que la llamada a la función se queda sin gas antes de que finalice la misma.
 {% endtab %}
 {% endtabs %}
 
@@ -248,12 +242,11 @@ Cambie su red a Binance Smart Chain. Consulte la documentación de su billetera 
 
 Para tradear SAFEMOON, debes hacer clic en el icono de configuración y **establecer su tolerancia de deslizamiento \(slippage\) en 12% o más.**
 
-  
-****Esto es porque **SafeMoon cobra un 10% de fee en cada transacción**:
+**\*\*Esto es porque** SafeMoon cobra un 10% de fee en cada transacción\*\*:
 
 * 5% de fee = redistribuidos a todos los holders
 * 5% de fee = usados para agregar liquidez
 
 Esta es también la razón por la que es posible que no reciba tantos tokens como espera cuando realice la compra.  
-Puede leer más en  [Cómo comprar Safemoon](https://community.trustwallet.com/t/how-to-buy-safemoon/155742) \(en inglés\)
+Puede leer más en [Cómo comprar Safemoon](https://community.trustwallet.com/t/how-to-buy-safemoon/155742) \(en inglés\)
 

@@ -2,7 +2,7 @@
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbmNofkorR92isGZtMh%2F-MbogOPu7Z3t4IPYr_NO%2Fdocs%20masthead%20%2821%29.png?alt=media&token=b49d7ec9-439e-4670-b32a-b0ec4ade041c)
 
-Dado que requiere varios pasos, el uso de Farms con PancakeSwap puede parecer intimidante al principio. Esta guía te guiará a través del uso del contrato de Farms directamente a través de BscScan. 
+Dado que requiere varios pasos, el uso de Farms con PancakeSwap puede parecer intimidante al principio. Esta guía te guiará a través del uso del contrato de Farms directamente a través de BscScan.
 
 Entienda que el uso de BscScan para interactuar con contratos no se recomienda para principiantes. Si no te sientes seguro, te sugerimos que use la guía [Cómo usar Farms](https://docs.pancakeswap.finance/v/espanol/products/yield-farming/como-usar-yield-farm-en-pancakeswap) en su lugar.
 
@@ -11,12 +11,11 @@ Entienda que el uso de BscScan para interactuar con contratos no se recomienda p
 Para interactuar correctamente con el contrato inteligente de Farming, necesitará el identificador de proceso coincidente \(PID\) para su par LP. Por ahora, la forma más fácil de localizar esto es verificar GitHub.
 
 1. Abrir el [Código de Farms de PancakeSwap en GitHub](https://github.com/pancakeswap/pancake-frontend/blob/master/src/config/constants/farms.ts).
-
 2. **Ctrl**/**command** + **F** y buscar el par necesario \(no por nombre de proyecto\). Por ejemplo, 'CAKE-BUSD'.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbmNofkorR92isGZtMh%2F-MbouIhyaIRlEhCs9AjM%2Fimage.png?alt=media&token=50c95e71-3b4e-4f72-b618-0a33bf493f89)
 
-3. Copiar el número de PID—en este caso 389—donde puedas acceder fácilmente. Lo necesitarás más adelante.
+1. Copiar el número de PID—en este caso 389—donde puedas acceder fácilmente. Lo necesitarás más adelante.
 
 ## Depositando LP Tokens a través de BscScan <a id="depositing-lp-tokens-through-bscscan"></a>
 
@@ -36,13 +35,12 @@ Deberá aprobar el contrato inteligente para el token LP que desea depositar en 
 
 ### Desde el código fuente <a id="from-the-source-code"></a>
 
-1. Primero abrir:  [Código de Farms de PancakeSwap en GitHub](https://github.com/pancakeswap/pancake-frontend/blob/master/src/config/constants/farms.ts).
-
+1. Primero abrir: [Código de Farms de PancakeSwap en GitHub](https://github.com/pancakeswap/pancake-frontend/blob/master/src/config/constants/farms.ts).
 2. **Ctrl**/**command** + **F** y buscar el par necesario \(no por nombre de proyecto\). Por ejemplo, 'CAKE-BUSD'.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-McgveN_06WzVRLK1FeR%2F-McgwmGUCIjvdfLKU9VR%2Fimage.png?alt=media&token=a8e11b39-4458-4e87-9f17-4e01ac4d192b)
 
-3. Cuando tenga el código para el par LP que está buscando, busque la dirección después de "56:". Esta será la dirección de su contrato.
+1. Cuando tenga el código para el par LP que está buscando, busque la dirección después de "56:". Esta será la dirección de su contrato.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-McgveN_06WzVRLK1FeR%2F-McgxJyVDFAxh9cZhEqt%2Fimage.png?alt=media&token=0638fe99-b1d5-4be3-8fd7-c1b68ca59032)
 
@@ -52,15 +50,15 @@ Deberá aprobar el contrato inteligente para el token LP que desea depositar en 
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbmNofkorR92isGZtMh%2F-MboxfvCzzhDYucewEJM%2Fimage.png?alt=media&token=a2340e87-0ac4-4db7-8868-3c021fcabe13)
 
-2. Clic en **Details** para ver más información.
+1. Clic en **Details** para ver más información.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbmNofkorR92isGZtMh%2F-MboyRav88nxt7uoSMcm%2Fimage.png?alt=media&token=4368c32c-79bf-477b-8853-bdfab36b88cb)
 
-3. Clic en **View Contract** para abrir el smart contract en BscScan.
+1. Clic en **View Contract** para abrir el smart contract en BscScan.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbmNofkorR92isGZtMh%2F-Mboz8UGShU9TSD7lct4%2Fimage.png?alt=media&token=d5b90a00-3fb2-4a4f-b77f-c5709b904ee5)
 
-### Dar permiso al contrato del LP Token  <a id="giving-permission-to-the-lp-token-contract"></a>
+### Dar permiso al contrato del LP Token <a id="giving-permission-to-the-lp-token-contract"></a>
 
 Ahora que tiene el contrato de su token LP abierto en BscScan, va a aprobar el gasto de sus tokens LP en el Farm.
 
@@ -68,23 +66,23 @@ Ahora que tiene el contrato de su token LP abierto en BscScan, va a aprobar el g
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbmNofkorR92isGZtMh%2F-Mbp2ObHkQgjgI-W5oHd%2Fimage.png?alt=media&token=bd3301ee-86d4-4899-8256-467a591104a8)
 
-2. Clic en **Connect to Web3** para conectar MetaMask.
+1. Clic en **Connect to Web3** para conectar MetaMask.
 
 ![](https://lh4.googleusercontent.com/IRXfcKBWmlH8o7gDE9ThGrKuc2DHZSNb-SxF93VSTkCdv2JjtdvKciPb5jom4Uv-ngpPMrrGQI1XuM6H2SuN81NMxGLzoHAye5YgvUzR9YSM6ElZs6e3A-fpnMT21PKyJmV2F1IZ)
 
 Confirmar la conexión.
 
-3. Bajo la función 1, “approve”, verás “spender:address”. Pegue la dirección del contrato del Staking principal que copió anteriormente.
+1. Bajo la función 1, “approve”, verás “spender:address”. Pegue la dirección del contrato del Staking principal que copió anteriormente.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbmNofkorR92isGZtMh%2F-Mbp7nSuoGINXJV4b3rm%2Fimage.png?alt=media&token=a07d5f8b-df85-4df8-8c33-8c9d74f20ff3)
 
-5. También tendrá que aprobar la cantidad de tokens LP que el contrato puede gastar. En el campo de valor, deberá ingresar la cantidad en Wei. Puede utilizar el [convertidor de unidades BscScan](https://www.bscscan.com/unitconverter) para cambiar fácilmente su cantidad a Wei. Aquí usaremos 5 tokens LP cake-busd.
+1. También tendrá que aprobar la cantidad de tokens LP que el contrato puede gastar. En el campo de valor, deberá ingresar la cantidad en Wei. Puede utilizar el [convertidor de unidades BscScan](https://www.bscscan.com/unitconverter) para cambiar fácilmente su cantidad a Wei. Aquí usaremos 5 tokens LP cake-busd.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbmNofkorR92isGZtMh%2F-Mbp7ayxZbb60iG9uHfV%2Fimage.png?alt=media&token=7fb50d56-32fc-4577-b96a-1ddf6ab74940)
 
-También puedes usar `-1` como el valor para dar una aprobación de gasto ilimitada.  Esto no significa que gastará todo por defecto, sino solo que una transacción de cualquier tamaño usando este contrato será permitida por su billetera.
+También puedes usar `-1` como el valor para dar una aprobación de gasto ilimitada. Esto no significa que gastará todo por defecto, sino solo que una transacción de cualquier tamaño usando este contrato será permitida por su billetera.
 
-6. Clic en **Write** y aceptar la transacción en Metamask. Ahora puede confirmar tokens LP en el Farm hasta la cantidad que haya aprobado.
+1. Clic en **Write** y aceptar la transacción en Metamask. Ahora puede confirmar tokens LP en el Farm hasta la cantidad que haya aprobado.
 
 ### Depositar LP Tokens con el contrato de Main Staking Contract <a id="deposit-lp-tokens-with-the-main-staking-contract-smart-contract"></a>
 
@@ -94,23 +92,22 @@ Con el Contrato de Staking Principal ahora aprobado para gastar sus Tokens LP, e
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbmNofkorR92isGZtMh%2F-Mbp2ObHkQgjgI-W5oHd%2Fimage.png?alt=media&token=bd3301ee-86d4-4899-8256-467a591104a8)
 
-2. Clic en **Connect to Web3** para conectar MetaMask.
-
-3. Ir hasta la función 2, "deposit", y poner el número PID que habíamos obtenido en el campo "\_pid".
+1. Clic en **Connect to Web3** para conectar MetaMask.
+2. Ir hasta la función 2, "deposit", y poner el número PID que habíamos obtenido en el campo "\_pid".
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbpARe5bzCMd5XORkuR%2F-Mbsxc1rAB8T2_R8rrzR%2Fimage.png?alt=media&token=03aeb1e2-feba-4f82-b3dc-74ff9f435a19)
 
 Si no copió su PID anteriormente, puede obtener información sobre cómo obtenerlo en la sección **Encontrando el idetificador de proceso del Farm** más arriba en esta página.
 
-4. Debajo de \_pid verás "\_amount". Indique el importe a depositar de LP al pool.
+1. Debajo de \_pid verás "\_amount". Indique el importe a depositar de LP al pool.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbpARe5bzCMd5XORkuR%2F-MbsyWOLP4b1bMdQyTnA%2Fimage.png?alt=media&token=3cb0d014-8174-420a-ad4f-1ebd6e3619dc)
 
-5. Compruebe la información y haga clic en **Write**. Confirma tu acción en MetaMask.
+1. Compruebe la información y haga clic en **Write**. Confirma tu acción en MetaMask.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbpARe5bzCMd5XORkuR%2F-Mbsyp72o0h6GheA90EF%2Fimage.png?alt=media&token=5e6148e4-a6ec-48f0-8cba-752b3b9d499e)
 
-6. Puedes ver que funcionó haciendo click en **View your transaction**.
+1. Puedes ver que funcionó haciendo click en **View your transaction**.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbpARe5bzCMd5XORkuR%2F-Mbt6-zveDG6pEb5on0q%2Fimage.png?alt=media&token=28a9f6aa-25cf-4089-b111-f3486a3b88ad)
 
@@ -122,23 +119,22 @@ Retirar sus tokens LP de un pool es muy similar a hacer un depósito. La diferen
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbmNofkorR92isGZtMh%2F-Mbp2ObHkQgjgI-W5oHd%2Fimage.png?alt=media&token=bd3301ee-86d4-4899-8256-467a591104a8)
 
-2. Clic en **Connect to Web3** para conectar MetaMask.
-
-3. Desplácese hasta el final hacia abajo hasta la función 15, "withdraw" y escriba su PID en el campo "pid".
+1. Clic en **Connect to Web3** para conectar MetaMask.
+2. Desplácese hasta el final hacia abajo hasta la función 15, "withdraw" y escriba su PID en el campo "pid".
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbpARe5bzCMd5XORkuR%2F-MbtAvbr6T5eY7FhtaMv%2Fimage.png?alt=media&token=61031f79-8b18-4a09-9153-09d4e41703a2)
 
 Si no copió su PID anteriormente, puede obtener información sobre cómo obtenerlo en la sección **Encontrando el idetificador de proceso del Farm** más arriba en esta página.
 
-4. Debajo de \_pid verás "\_amount". Indique el importe a retirar de LP desde el pool.
+1. Debajo de \_pid verás "\_amount". Indique el importe a retirar de LP desde el pool.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbpARe5bzCMd5XORkuR%2F-MbtBD8bokfhbBDKKTpT%2Fimage.png?alt=media&token=b3410b45-e71b-4881-85f5-1cb3c7e8c6c9)
 
-5. Compruebe la información y haga clic en **Write**. Confirma tu acción en MetaMask.
+1. Compruebe la información y haga clic en **Write**. Confirma tu acción en MetaMask.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbpARe5bzCMd5XORkuR%2F-Mbsyp72o0h6GheA90EF%2Fimage.png?alt=media&token=5e6148e4-a6ec-48f0-8cba-752b3b9d499e)
 
-6. Puedes ver que funcionó haciendo click en **View your transaction.**
+1. Puedes ver que funcionó haciendo click en **View your transaction.**
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbpARe5bzCMd5XORkuR%2F-Mbt6-zveDG6pEb5on0q%2Fimage.png?alt=media&token=28a9f6aa-25cf-4089-b111-f3486a3b88ad)
 
@@ -154,7 +150,7 @@ El equipo de PancakeSwap sugiere encarecidamente evitar esta función a menos qu
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbmNofkorR92isGZtMh%2F-Mbp2ObHkQgjgI-W5oHd%2Fimage.png?alt=media&token=bd3301ee-86d4-4899-8256-467a591104a8)
 
-2. Clic en **Connect to Web3** para conectar MetaMask.
+1. Clic en **Connect to Web3** para conectar MetaMask.
 
 ![](https://lh4.googleusercontent.com/IRXfcKBWmlH8o7gDE9ThGrKuc2DHZSNb-SxF93VSTkCdv2JjtdvKciPb5jom4Uv-ngpPMrrGQI1XuM6H2SuN81NMxGLzoHAye5YgvUzR9YSM6ElZs6e3A-fpnMT21PKyJmV2F1IZ)
 
@@ -164,11 +160,11 @@ El equipo de PancakeSwap sugiere encarecidamente evitar esta función a menos qu
 
 Si no copió su PID anteriormente, puede obtener información sobre cómo obtenerlo en la sección **Encontrando el idetificador de proceso del Farm** más arriba en esta página.
 
-5. Compruebe la información y haga clic en **Write**. Confirma tu acción en MetaMask.
+1. Compruebe la información y haga clic en **Write**. Confirma tu acción en MetaMask.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbpARe5bzCMd5XORkuR%2F-Mbsyp72o0h6GheA90EF%2Fimage.png?alt=media&token=5e6148e4-a6ec-48f0-8cba-752b3b9d499e)
 
-6. Puedes ver que funcionó haciendo click en **View your transaction.**
+1. Puedes ver que funcionó haciendo click en **View your transaction.**
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbpARe5bzCMd5XORkuR%2F-Mbt6-zveDG6pEb5on0q%2Fimage.png?alt=media&token=28a9f6aa-25cf-4089-b111-f3486a3b88ad)
 

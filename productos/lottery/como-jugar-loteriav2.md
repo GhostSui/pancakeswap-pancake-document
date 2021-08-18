@@ -4,7 +4,7 @@
 
 La Lotería de PancakeSwap no solo es una buena manera de hacer montones de CAKE, ¡también es muy divertida! Esta guía te guiará a través de cómo involucrarse en la Lotería.
 
-La Lotería ha cambiado un poco desde su primera salida. Lotería v2 le permite ganar más a menudo, tener cierto control sobre sus tickets y tiene más potencial para enormes premios en cake para hacerse la agua la boca. 
+La Lotería ha cambiado un poco desde su primera salida. Lotería v2 le permite ganar más a menudo, tener cierto control sobre sus tickets y tiene más potencial para enormes premios en cake para hacerse la agua la boca.
 
 Obtenga más información sobre la Lotería de PancakeSwap [aquí](https://docs.pancakeswap.finance/v/espanol/productos/lottery).
 
@@ -34,7 +34,7 @@ Recuerda, mucho puede cambiar en el tiempo restante. Se pueden vender muchos má
 
 Solo necesitas un poco de CAKE: cada ticket cuesta aproximadamente $ 5 USD \(el precio exacto de CAKE se establece al comienzo de la ronda\).
 
-Puede elegir entre aleatorizar los números de sus tickets de lotería o elegir sus números de tickets manualmente. Elija entre las pestañas números aleatorios y números manuales a continuación para obtener una guía de cada método. 
+Puede elegir entre aleatorizar los números de sus tickets de lotería o elegir sus números de tickets manualmente. Elija entre las pestañas números aleatorios y números manuales a continuación para obtener una guía de cada método.
 
 {% tabs %}
 {% tab title="Números de Tickets Aleatorios" %}
@@ -48,15 +48,15 @@ Hay un tiempo entre rondas en el que comprar boletos no es posible. Sólo tienes
 
 ![](https://lh3.googleusercontent.com/JMN04H2T-oTc0FiC3L5ZMa7Xtfb0xtk58JsJ3CvQyJ8MKI6BNS5iJOCTubfO5KApRuMB_6Un97SQmFRujLJhDNOWT97y4_m3dzkRLD4ovcoNuaBqGhAwKhN_cTOgcEFpYPhG4c_j)
 
-2. Se abrirá una ventana que le permitirá elegir cuántos tickets comprar. Escriba cuántos boletos le gustaría comprar. También puede utilizar los botones preestablecidos debajo.
+1. Se abrirá una ventana que le permitirá elegir cuántos tickets comprar. Escriba cuántos boletos le gustaría comprar. También puede utilizar los botones preestablecidos debajo.
 
 ![](../../.gitbook/assets/image%20%2868%29.png)
 
-3. Antes de continuar, vale la pena considerar los descuentos de compra de tickets en cantidad. Cuantas más tickets compres, mayor será el descuento.
+1. Antes de continuar, vale la pena considerar los descuentos de compra de tickets en cantidad. Cuantas más tickets compres, mayor será el descuento.
 
 El descuento comienza en 2 boletos, y escala hasta los 100 tickets, donde se ahorrará casi un 5% en su compra \(4,95%\).
 
-4. Cuando esté satisfecho con el número de tickets que desea comprar, haga clic en **Confirm** y confirme la acción en su billetera.
+1. Cuando esté satisfecho con el número de tickets que desea comprar, haga clic en **Confirm** y confirme la acción en su billetera.
 
 ![](../../.gitbook/assets/image%20%2861%29.png)
 {% endtab %}
@@ -72,19 +72,19 @@ Hay un tiempo entre rondas en el que comprar boletos no es posible. Sólo tienes
 
 ![](https://lh6.googleusercontent.com/UwGdWEMdShE5_MfQCn6k8zmuXFIOSNPiihIEPMJzXbZpKRl5yk-deuSDydyo00Z67G0zFhxq_pVnItoLZCKbJTpD8RjTVbDzZZc-NiTc1isn5IAGZTBcXIRl8VyMzG_xNZBE5csi)
 
-2. Se abrirá una ventana que le permitirá elegir cuántos tickets comprar. Escriba cuántos boletos le gustaría comprar. También puede utilizar los botones preestablecidos debajo.
+1. Se abrirá una ventana que le permitirá elegir cuántos tickets comprar. Escriba cuántos boletos le gustaría comprar. También puede utilizar los botones preestablecidos debajo.
 
-![](../../.gitbook/assets/image%20%2868%29.png)
+![](../../.gitbook/assets/image%20%2868%29%20%281%29.png)
 
-3. Antes de continuar, vale la pena considerar los descuentos de compra de tickets en cantidad. Cuantas más tickets compres, mayor será el descuento.
+1. Antes de continuar, vale la pena considerar los descuentos de compra de tickets en cantidad. Cuantas más tickets compres, mayor será el descuento.
 
 El descuento comienza en 2 boletos, y escala hasta los 100 tickets, donde se ahorrará casi un 5% en su compra \(4,95%\).
 
-4. Para personalizar los números de los tickets, clic en el botón **View/Edit Numbers**.
+1. Para personalizar los números de los tickets, clic en el botón **View/Edit Numbers**.
 
 ![](../../.gitbook/assets/image%20%2813%29.png)
 
-5. Se abrirá una nueva ventana que muestra sus tickets. Haga clic en un número de cualquier ticket para cambiar el número en esa posición.
+1. Se abrirá una nueva ventana que muestra sus tickets. Haga clic en un número de cualquier ticket para cambiar el número en esa posición.
 
 Puede aleatorizar sus números de nuevo haciendo clic en **Randomize**, o volver atrás si cambia de opinión haciendo clic en **Go back**.
 
@@ -94,7 +94,7 @@ Recibirás una advertencia si creas tickets duplicados. Es posible que sus bolet
 
 ![](https://lh3.googleusercontent.com/jqaMYUJQWpMIkzonsVvIpz_lUBzLYDSMxFZftLqdxqrzPzcwnpZio-XMw7LFCpOPOgq-tZX8yD5WfW_TATvH1jX0ZTh9WwNm75vezhfpiH5ljXTphkJgg344KdAE0JplkXw-oqjN)
 
-6. Cuando esté satisfecho con sus números, haga clic en el botón **Confirm and buy**
+1. Cuando esté satisfecho con sus números, haga clic en el botón **Confirm and buy**
 
 ![](../../.gitbook/assets/image%20%2831%29.png)
 
@@ -110,7 +110,7 @@ Puede ver sus boletos después de comprarlos antes de que se sorteen los número
 
 ![](https://lh4.googleusercontent.com/GSUujMwjqv5c_0UeeVrWmBnyeTiBVfhSiiQd8NZie8tpCC_65c7mGPJfS0O_q72MstJUGeOZ7VWnrGIytwRHowcCGi6Cdgj5flwg06GODRs8Or_3R-rZB1pKcP1pudwtjJBJJBDO)
 
-2. Se abrirá una ventana que muestra todas sus tickets y sus números. También te dará la opción de comprar más boletos si lo deseas.
+1. Se abrirá una ventana que muestra todas sus tickets y sus números. También te dará la opción de comprar más boletos si lo deseas.
 
 ![](https://lh3.googleusercontent.com/RSA-gQ7e8yY1t8xN8bELLaMaoBZLtSAS8ybDdeiG6Wzv1fbr9SqKheQD3S5kxYFlD9rnZX9dpzXjYTDy-rnsXkuNtrU46msafxAfdsHgsCdPxjOxBtTJN3cCNF6NWYp0Mwdk4SXR)
 
@@ -126,5 +126,5 @@ Puede ver sus boletos después de comprarlos antes de que se sorteen los número
 
 ![](https://lh3.googleusercontent.com/p3QxWcrxCcBwHrhwPU55vnAN-BmelgNwKRWse8yEQQVfehXsIOvUX_tCo1gC7LpHxL-crIMS19RxpnMxn5yBuShNwXfH7qzCSdCOtnBeXhUuecrqRvhdI97rX_CuVuWAawaor6Mi)
 
-2. Se abrirá una ventana que muestra los números ganadores y todos tus tickets y sus números.
+1. Se abrirá una ventana que muestra los números ganadores y todos tus tickets y sus números.
 

@@ -35,5 +35,5 @@ Para hacer que ser un proveedor de liquidez valga aún más la pena, también pu
 
 Proporcionar liquidez no está exento de riesgos, ya que puede estar expuesto a impermanent loss.
 
- [“En pocas palabras, la pérdida impermanente es la diferencia entre mantener tokens en una AMM y mantenerlos en su billetera” - Nate Hindman](https://blog.bancor.network/beginners-guide-to-getting-rekt-by-impermanent-loss-7c9510cb2f22)
+[“En pocas palabras, la pérdida impermanente es la diferencia entre mantener tokens en una AMM y mantenerlos en su billetera” - Nate Hindman](https://blog.bancor.network/beginners-guide-to-getting-rekt-by-impermanent-loss-7c9510cb2f22)
 

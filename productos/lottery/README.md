@@ -35,7 +35,7 @@ Hay un total de seis bolas de lotería, de 0 a 9, en cada boleto. Para ganar, su
 
 Números Sorteados![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MdpMa-EHc7hyY29e6dr%2F-MdpOY_cQRE7q_pphjsc%2Fimage.png?alt=media&token=108a4565-4494-4a5f-a047-8acff540afc7)Números Sorteados
 
- Números de Ticket![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MdpMa-EHc7hyY29e6dr%2F-MdpOU_vVcWmXuUGvtYV%2Fimage.png?alt=media&token=d699a43b-dd0a-4ff9-b4ac-5ef48013ee4c)Tu Ticket A
+Números de Ticket![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MdpMa-EHc7hyY29e6dr%2F-MdpOU_vVcWmXuUGvtYV%2Fimage.png?alt=media&token=d699a43b-dd0a-4ff9-b4ac-5ef48013ee4c)Tu Ticket A
 
 En el ejemplo anterior, el Ticket A, cinco de los números del ticket coinciden con los mismos números sorteados, en el mismo orden exacto: todos excepto el cuarto.
 
@@ -57,7 +57,7 @@ Por ejemplo, si tiene el único boleto coincidió con tres números en orden, y 
 
 Sin embargo, si usted y otras tres personas coinciden con tres números en orden, los 2000 CAKE se dividirían entre los cuatro boletos ganadores, lo que significa que recibiría 500 CAKE.
 
-Vea la imagen de abajo para un desglose de los premios en cada grupo.[  
+Vea la imagen de abajo para un desglose de los premios en cada grupo.[    
 ](https://docs.pancakeswap.finance/products/syrup-pool/syrup-pool-faq)
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MduQ2RtStF7WobF1e2A%2F-MduUqhz46Gaf5m0kXLP%2Fimage.png?alt=media&token=feb3e737-0fc4-42b6-85f5-d47c37fd01b9)
