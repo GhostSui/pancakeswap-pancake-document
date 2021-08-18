@@ -8,13 +8,11 @@ Second, enter the URL of the voting page in the address bar. If you don't know t
 
 ![](../../.gitbook/assets/safepal-2.png)
 
-Third, click on the connect wallet button at the top of your screen. 
+Third, click on the connect wallet button at the top of your screen.
 
 ![](../../.gitbook/assets/safepal-3.png)
 
 Last, click on "Injected" as the wallet. Your wallet will now be connected and you can now vote on PancakeSwap proposals
 
 ![](../../.gitbook/assets/safepal-4.png)
-
-
 

@@ -2,8 +2,6 @@
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbGTDNZ6xd3_Q-qSEP5%2F-MbJqNikjouS9bDl1rUt%2Fdocs%20masthead%20%289%29.png?alt=media&token=a86affdf-4276-4963-8f05-661aec80064a)
 
-
-
 开始使用 PancakeSwap 前，您首先需要创建一个支持币安智能链（BSC）的钱包。钱包在电脑和手机上都可以使用。请选择最适合您的钱包应用。
 
 **在设置钱包时，请务必注意**：
@@ -93,10 +91,8 @@ This comparison table gives an overview of the most popular mobile wallets used 
   </tbody>
 </table>
 
-⚠️ 需要额外设置   
+⚠️ 需要额外设置  
 🔶 仅支持 SafePal 硬件钱包
-
-
 
 您可以在下方找到关于每个钱包的详细信息、下载链接和安装指南：
 
@@ -127,7 +123,7 @@ Trust Wallet 在移动设备上颇受欢迎的钱包应用。它支持 DApps，N
 {% endtab %}
 
 {% tab title="MetaMask" %}
-![](../.gitbook/assets/image%20%2833%29%20%283%29.png)
+![](../.gitbook/assets/image%20%2833%29%20%283%29%20%284%29.png)
 
 MetaMask 是一个基于浏览器的热门钱包插件，支持 ERC20（以太坊网络）、BEP2 和 BEP20（币安链与币安智能链）。
 
@@ -151,13 +147,10 @@ MetaMask 是一个基于浏览器的热门钱包插件，支持 ERC20（以太�
 [**下载 MetaMask**](https://metamask.io/download.html) **（自动检测您的设备）**
 
 \*\*\*\*[**MetaMask 设置教程**](https://academy.binance.com/cn/articles/connecting-metamask-to-binance-smart-chain)\*\*\*\*
-
-  
-****
 {% endtab %}
 
 {% tab title="Token Pocket" %}
-![](../.gitbook/assets/image%20%28125%29%20%281%29.png)
+![](../.gitbook/assets/image%20%28125%29%20%283%29%20%281%29.png)
 
 Token Pocket 是一个原生支持多个网络（加密货币链）的虚拟货币钱包。它同时也提供电脑端程序。
 
@@ -186,7 +179,7 @@ Token Pocket 是一个原生支持多个网络（加密货币链）的虚拟货�
 2. 页面将自动检测您的设备，点击 **Google Play** 或 **App Store** 前往相应的商店下载。苹果用户建议使用 TestFlight 下载 TokenPocket Pro ，请遵循页面指示。
 3. 安装 Token Pocket 后打开，您将会看到一个询问您是否已有钱包的选项。若您想导入现有的钱包，请选择「我有钱包」。点击「我没有钱包」创建一个新的钱包：
 
-   ![](../.gitbook/assets/mbp3-2021.08.16-103912am-cleanshot_cleanshot.png)
+   ![](../.gitbook/assets/mbp3-2021.08.16-103912am-cleanshot_cleanshot%20%281%29.png)
 
 4. 在下一个页面，在列表内选择「**币安智能链**」。
 
@@ -254,11 +247,9 @@ SafePal 有软件和硬件钱包两种形式。该钱包 App 安装便捷，设�
 
 ​[**下载 SafePal**](https://safepal.io/download) **（自动检测您的设备）**  
 [**SafePal 设置教程（英文）**](https://blog.safepal.io/binance-smart-chain-x-safepal/)  
-****[**SafePal 设置教程（中文）**](https://docs.safepal.io/safepal-app/how-to-create-a-safepal-software-wallet/ru-he-chuang-jian-safepal-ruan-jian-qian-bao)\*\*\*\*
+**\*\*\[**SafePal 设置教程（中文）_\*\]\(_[https://docs.safepal.io/safepal-app/how-to-create-a-safepal-software-wallet/ru-he-chuang-jian-safepal-ruan-jian-qian-bao\)\](https://docs.safepal.io/safepal-app/how-to-create-a-safepal-software-wallet/ru-he-chuang-jian-safepal-ruan-jian-qian-bao%29\)\*\*\*
 {% endtab %}
 {% endtabs %}
 
 ## \*\*\*\*
-
-
 

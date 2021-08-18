@@ -2,9 +2,9 @@
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbFSP32KpyXLujbE6FD%2F-MbFSUHosQioE_h8OgDb%2Fdocs%20masthead%20%2821%29.png?alt=media&token=34a44e20-171f-43d7-9c62-a85c2130a741)
 
-## 农场与糖浆池 
+## 农场与糖浆池
 
-当用户为您的代币提供流动性，并将 LP 代币质押在农场时，他们将获得 CAKE 代币，作为提供流动性的奖励。 
+当用户为您的代币提供流动性，并将 LP 代币质押在农场时，他们将获得 CAKE 代币，作为提供流动性的奖励。
 
 而您则通过 Syrup 资金池，将项目代币分发给将 CAKE 质押在池中的用户。
 
@@ -67,7 +67,7 @@ PancakeSwap 交易所直接读取 Trust Wallet 代码库内的图标资料。请
 
 ## 其他
 
-若以上内容没有解决您的疑问，请发送邮件至 pancakeswap@gmail.com 
+若以上内容没有解决您的疑问，请发送邮件至 pancakeswap@gmail.com
 
 若您需要客户服务，请不要试图通过这个邮箱地址联系我们。因为它不是客服邮箱，我们将不会回应。若想在产品方面获得帮助，最佳的选择是通过 [Telegram 或 Reddit 社区](telegram.md)。
 

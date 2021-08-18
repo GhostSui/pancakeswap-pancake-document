@@ -66,8 +66,6 @@ description: 常见错误信息。 使用侧边栏快速查找您的错误代码
 
 ![](https://lh5.googleusercontent.com/T1KMtz2ILDVHljGw1iLbIv0W1KVl7qXL8zU2nLFHkUvDb5oMw9mpUzzBwWmIBz15XDsxZ5w7wsaqAwCs_pxdobz_kY_7BhcZhYtpqWuQGFs23DZq98-SVInlfsS07WzxFPLIYXHt)
 
-
-
 ![](https://lh5.googleusercontent.com/7aspaCCvDjzxbJxngqwgeq737LB3OUNcAs592QqlEkyrAOTfKsrt_FAwpEylaIJhff5ZcYlzB_r0v1JZwfj3j8Ah6jlUbRoMrAqVfTb3cwDI7B1i5HJtZSQOsTPrv7l7SaclC3BV)
 {% endtab %}
 
@@ -78,7 +76,7 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 
 ### **批准并授权合约提取您的钱包里的LP代币**
 
-浏览您要授权的LP代币合约地址。   
+浏览您要授权的LP代币合约地址。  
 以下示范例子是ETH/WBNB对：[https://bscscan.com/address/0x70d8929d04b60af4fb9b58713ebcf18765ade422](https://bscscan.com/address/0x70d8929d04b60af4fb9b58713ebcf18765ade422)
 
 1. 选择 “**Write Contract”** \(写入合约\)**，**然后点击 “**Connect to Web3”** \(连接至Web3\)以连接您的钱包。 ![](https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
@@ -120,9 +118,9 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 >
 > \(交易由于此错误而无法成功: PancakeRouter: 逾期。 这可能是因为您正在兑换的一个代币存在某些问题\)
 
-再试一次，但是在交易产生后立即确认\(即签名并往链上广播\)该交易。 
+再试一次，但是在交易产生后立即确认\(即签名并往链上广播\)该交易。
 
-发生这种情况是因为您在交易产生后，没有足够快地点击“确认”按钮，而是等到期限过后才进行签名与链上广播。 
+发生这种情况是因为您在交易产生后，没有足够快地点击“确认”按钮，而是等到期限过后才进行签名与链上广播。
 
 ### Pancake: K
 
@@ -197,7 +195,7 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 {% tab title="原因" %}
 基本上，您的钱包\(Metamask, Trust Wallet等\)无法完成其尝试执行的操作。
 
-您的钱包所建议的Gas限制太低，因此在合约函数调用完成之前，矿工费已用尽。  
+您的钱包所建议的Gas限制太低，因此在合约函数调用完成之前，矿工费已用尽。
 {% endtab %}
 {% endtabs %}
 

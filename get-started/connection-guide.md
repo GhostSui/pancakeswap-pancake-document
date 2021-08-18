@@ -49,8 +49,7 @@
 请先跟随以下视频 + 文字教程添加币安智能链 \(BSC\) 至 MetaMask：
 
 🎥 [如何添加币安智能链 \(BSC\)](https://t.me/PancakeSwap_CN/143416)  
-若您有任何疑问，欢迎加入上面消息所在的 PancakeSwap 官方中文电报群组，寻求帮助！  
-
+若您有任何疑问，欢迎加入上面消息所在的 PancakeSwap 官方中文电报群组，寻求帮助！
 
 1. 成功添加网络后，您即可回到主界面，选择「浏览器」
 
@@ -132,7 +131,7 @@
 
 ## 下载
 
-[**下载币安钱包**](https://www.binance.org/en) ****（请在弹出的页面内自行选择下载）
+[**下载币安钱包**](https://www.binance.org/en) _\*\*_（请在弹出的页面内自行选择下载）
 {% endtab %}
 
 {% tab title="Token Pocket" %}
