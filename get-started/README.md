@@ -1,5 +1,7 @@
 # 入门指南
 
+
+
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbAMObsweNRS-pDqIid%2F-MbAOS6qTp_O-x9ZkROg%2Fdocs%20masthead%20%2815%29.png?alt=media&token=77a0592a-82b8-4cf9-92ab-998f40719f77)
 
 尝试新事物总是那么的富有挑战。别担心，我们制作了一系列教程，助您快速入门 PancakeSwap。
